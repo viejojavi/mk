@@ -1,1 +1,3 @@
- /tool fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc?token=GHSAT0AAAAAACS6TKMAQLTWPVBQTHJKOC2YZTVYB2A" mode=https dst-path=addres_list.rsc 
+ip/proxy/set enabled=yes port=999 max-cache-size=2048
+ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80 action=redirect to-ports=999 place-before=0
+/tool fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc?token=GHSAT0AAAAAACS6TKMAQLTWPVBQTHJKOC2YZTVYB2A" mode=https dst-path=addres_list.rsc 
