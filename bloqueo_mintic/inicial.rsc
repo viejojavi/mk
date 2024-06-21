@@ -5,5 +5,6 @@
 /tool fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc" dst-path=urls.rsc
 /import addres_list.rsc
 /import urls.rsc
+delay delay-time=5m
 /file/remove addres_list.rsc
 /file/remove urls.rsc
