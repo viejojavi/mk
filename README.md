@@ -3,4 +3,4 @@ scripts funcionales para mikrotik, con esta serie de scripts vamos a generar fun
 
 Bloqueo Mintic:
 
-/tool fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/inicial.rsc?token=GHSAT0AAAAAACS6TKMASQHJPQKMH6XHUUT2ZTV4U2A" mode=https dst-path=urls.rsc
+/tool fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/inicial.rsc?token=GHSAT0AAAAAACS6TKMAYWW555GUZPWLZNOAZTWBBXA" mode=https dst-path=urls.rsc
