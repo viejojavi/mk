@@ -2,7 +2,7 @@
 :foreach item in=[/system/script/find where comment="Bloqueo mintic by Oscar Castillo"] do={/system/script/remove $item}
 /system/script/add name=eliminar_nat source=":local commentToFind \"Bloqueo mintic by Oscar Castillo\"; :foreach item in=[/ip firewall nat find where comment=\$commentToFind] do={/ip firewall nat remove \$item}" comment="Bloqueo mintic by Oscar Castillo"
 :put "Script Agregado"
-/ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80 action=redirect to-ports=999 place-before=0 comment="Bloqueo mintic by Oscar Castillo"
+/ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80 action=redirect to-ports=999 comment="Bloqueo mintic by Oscar Castillo"
 :put "Nat Habilitado"
 :foreach item in=[/system/scheduler/find where comment="actualizacion mintic"] do={/system/scheduler/remove $item}
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
