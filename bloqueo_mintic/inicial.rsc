@@ -1,5 +1,5 @@
 :put "Iniciamos instalacion de Reglas para Bloqueo Mintic"
-/system/script/add name=eliminar_nat source=":local commentToFind \"Bloqueo mintic by Oscar Castillo\"; :foreach item in=[/ip firewall nat find where comment=\$commentToFind] do={/ip firewall nat remove \$item}"
+/system/script/add name=eliminar_nat source=":local commentToFind \"Bloqueo mintic by Oscar Castillo\"; :foreach item in=[/ip firewall nat find where comment=\$commentToFind] do={/ip firewall nat remove \$item}" comment="Bloqueo mintic by Oscar Castillo"
 :put "Script Agregado"
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
 :put "Tarea Agregada"
