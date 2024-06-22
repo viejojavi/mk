@@ -13,8 +13,10 @@
 :foreach item in=[/ip/proxy/access/find where comment="bloqueo_mintic"] do={/ip/proxy/access/remove $item}
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc; import file-name=urls.rsc
 :put "Access agregados"
-delay delay-time=5m
+delay delay-time=5s
 /file/remove addres_list.rsc
 :put "lista eliminada"
 /file/remove urls.rsc
 :put "Acces eliminados"
+/file/remove inicial.rsc
+:put "Tarea Finalizada"
