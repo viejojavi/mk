@@ -10,6 +10,7 @@
 :foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo Mintic by Oscar Castillo"] do={/ip/firewall/address-list/remove $item}
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc; import file-name=addres_list.rsc
 :put "Lista Agregada y nat funcional"
+:foreach item in=[/ip/proxy/access/find where comment="bloqueo_mintic"] do={/ip/proxy/access/remove $item}
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc; import file-name=urls.rsc
 :put "Access agregados"
 delay delay-time=5m
