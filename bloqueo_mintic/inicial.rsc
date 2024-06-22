@@ -2,7 +2,7 @@
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
 /ip/proxy/set enabled=yes port=999 max-cache-size=2048
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc; import file-name=addres_list.rsc
-
+/tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc; import file-name=urls.rsc
 delay delay-time=5m
 /file/remove addres_list.rsc
 /file/remove urls.rsc
