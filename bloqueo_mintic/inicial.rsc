@@ -7,6 +7,7 @@
 :put "Tarea Agregada"
 /ip/proxy/set enabled=yes port=999 max-cache-size=2048
 :put "Proxy habilitado"
+:foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo Mintic by Oscar Castillo"] do={/ip/firewall/address-list/remove $item}
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc; import file-name=addres_list.rsc
 :put "Lista Agregada y nat funcional"
 /tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc; import file-name=urls.rsc
