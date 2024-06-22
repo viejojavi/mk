@@ -10,10 +10,11 @@
 :put "Tarea Agregada"
 /ip/proxy/set enabled=yes port=999 max-cache-size=2048
 :put "Proxy habilitado"
-/tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc; import file-name=addres_list.rsc
+:foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo Mintic by Oscar Castillo"] do={/ip/firewall/address-list/remove $item}
+/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/addres_list.rsc"; import file-name=addres_list.rsc
 :put "Lista Agregada"
 :foreach item in=[/ip/proxy/access/find where comment="bloqueo_mintic"] do={/ip/proxy/access/remove $item}
-/tool/fetch url=https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc; import file-name=urls.rsc
+/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc"; import file-name=urls.rsc
 :put "Access agregados"
 delay delay-time=5s
 /file/remove addres_list.rsc
