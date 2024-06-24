@@ -1,6 +1,5 @@
 import re
 from urllib.parse import urlparse
-from github import Github
 
 # Función para limpiar el prefijo http:// y https:// de una URL
 def limpiar_url(url):
@@ -8,7 +7,7 @@ def limpiar_url(url):
     return url
 
 # Leer el listado de URLs desde un archivo
-with open('listado_urls.rsc', 'r') as file:
+with open('listado_urls.txt', 'r') as file:
     urls = file.readlines()
 
 # Verificar si las URLs fueron leídas correctamente
@@ -30,30 +29,39 @@ with open('urls_con_codigos.txt', 'w') as file:
 
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
 
-# Autenticación en GitHub
-# Reemplaza con tu token de acceso personal de GitHub y el nombre de usuario del repositorio
-token = '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'
-repo_owner = 'viejojavi'
-repo_name = 'mk'
+# Función para dividir una URL en dominio y path
+def dividir_url(url):
+    try:
+        parsed_url = urlparse(url)
+        dominio = parsed_url.netloc
+        if dominio.startswith("www."):
+            dominio = dominio[4:]  # Remover el prefijo 'www.'
+        path = parsed_url.path
+        print(f"dst-host={dominio} path={path} para URL: {url}")
+        return dominio, path
+    except Exception as e:
+        print(f"Error al procesar la URL: {url} - {e}")
+        return None, None
 
-g = Github(token)
-repo = g.get_repo(f"{repo_owner}/{repo_name}")
+# Generar archivo con dominio y path de cada URL
+codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
+codigo_despues_divididas = " comment=bloqueo_mintic"
+codigo_con_delay = " delay 1"
 
-# Actualizar el archivo listado_urls.rsc en el repositorio de GitHub
-path_to_file = 'bloqueo_mintic/listado_urls.rsc'
-branch_name = 'main'
+with open('urls_divididas.txt', 'w') as file:
+    for i, url in enumerate(urls):
+        url = url.strip()
+        if url:  # Asegurarse de que la URL no esté vacía
+            dominio, path = dividir_url(url)
+            if dominio is not None:
+                if path:
+                    file.write(f"{codigo_antes_divididas}dst-host={dominio} path={path}{codigo_despues_divididas}\n")
+                else:
+                    file.write(f"{codigo_antes_divididas}dst-host={dominio}{codigo_despues_divididas}\n")
+            
+            # Agregar línea con delay cada 50 líneas
+            if (i + 1) % 50 == 0:
+                file.write(codigo_con_delay + "\n")
 
-with open('urls_con_codigos.txt', 'r') as file:
-    content = file.read()
-
-try:
-    # Obtener el archivo existente en el repositorio
-    file = repo.get_contents(path_to_file, ref=branch_name)
-    
-    # Actualizar el contenido del archivo
-    repo.update_file(path_to_file, "Actualización de listado_urls.rsc desde script", content, file.sha, branch=branch_name)
-    print(f"Archivo {path_to_file} actualizado correctamente en el repositorio.")
-except Exception as e:
-    print(f"No se pudo actualizar el archivo en el repositorio: {e}")
-
-print("Proceso completado.")
+print("Archivo con dominios y paths se ha guardado en 'urls_divididas.txt'.")
+print("Proceso completado. Los dominios únicos se han guardado en 'dominios_unicos.txt'.")
