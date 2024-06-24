@@ -78,9 +78,9 @@ with open('urls_divididas.txt', 'w') as file:
             dominio, path = dividir_url(url)
             if dominio is not None:
                 if path:
-                    file.write(f"dst-host={dominio} path={path}\n")
+                    file.write(f"/ip/proxy/acces/add action=redirect action-data=ticcol.com/internet-sano-1 dst-host={dominio} path={path} comment=bloqueo_mintic\n")
                 else:
-                    file.write(f"dst-host={dominio}\n")
+                    file.write(f"/ip/proxy/acces/add action=redirect action-data=ticcol.com/internet-sano-1 dst-host={dominio} comment=bloqueo_mintic\n")
 
 print("Proceso completado. Los dominios únicos se han guardado en 'dominios_unicos.txt'.")
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
