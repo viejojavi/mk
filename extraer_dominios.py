@@ -78,7 +78,7 @@ with open('urls_divididas.txt', 'w') as file:
             dominio, path = dividir_url(url)
             if dominio is not None:
                 if path:
-                    file.write(f"dst-host={dominio}, path={path}\n")
+                    file.write(f"dst-host={dominio} path={path}\n")
                 else:
                     file.write(f"dst-host={dominio}\n")
 
