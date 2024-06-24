@@ -14,6 +14,11 @@ def obtener_dominio(url):
         print(f"Error al procesar la URL: {url} - {e}")
         return None
 
+# Función para limpiar el prefijo http:// y https:// de una URL
+def limpiar_url(url):
+    url = re.sub(r'^https?://', '', url)  # Eliminar http:// o https://
+    return url
+
 # Leer el listado de URLs desde un archivo
 with open('listado_urls.txt', 'r') as file:
     urls = file.readlines()
@@ -50,7 +55,9 @@ with open('urls_con_codigos.txt', 'w') as file:
     for url in urls:
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
-            file.write(f"{codigo_antes}{url}{codigo_despues}\n")
+            url_limpia = limpiar_url(url)
+            file.write(f"{codigo_antes}{url_limpia}{codigo_despues}\n")
 
 print("Proceso completado. Los dominios únicos se han guardado en 'dominios_unicos.txt'.")
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
+
