@@ -7,6 +7,7 @@ def obtener_dominio(url):
         dominio = urlparse(url).netloc
         if dominio.startswith("www."):
             dominio = dominio[4:]  # Remover el prefijo 'www.'
+        print(f"Procesado dominio: {dominio} para URL: {url}")
         return dominio
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
@@ -22,6 +23,8 @@ for url in urls:
     dominio = obtener_dominio(url.strip())
     if dominio:
         dominios.add(dominio)
+
+print(f"Dominios extraídos: {dominios}")
 
 # Guardar los dominios únicos en un archivo
 with open('dominios_unicos.txt', 'w') as file:
