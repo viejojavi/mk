@@ -24,7 +24,7 @@ for url in urls:
         dominios.add(dominio)
 
 # Guardar los dominios únicos en un archivo
-with open('bloqueo_mintic/dominios_unicos.txt', 'w') as file:
+with open('dominios_unicos.txt', 'w') as file:
     for dominio in dominios:
         file.write(dominio + '\n')
 
