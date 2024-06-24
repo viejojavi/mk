@@ -26,8 +26,14 @@ jobs:
       run: |
         python extraer_dominios.py
 
-    - name: Upload output file
+    - name: Upload dominio_unicos artifact
       uses: actions/upload-artifact@v2
       with:
         name: dominios_unicos
         path: dominios_unicos.txt
+
+    - name: Upload urls_con_codigos artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: urls_con_codigos
+        path: urls_con_codigos.txt
