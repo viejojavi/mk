@@ -44,7 +44,7 @@ with open('dominios_unicos.txt', 'w') as file:
 
 # Generar archivo con líneas de código antes y después de cada URL
 codigo_antes = "add list=bloqueo_mintic address="
-codigo_despues = " comment=Bloqueo_mintic_by_Oscar_Castillo"
+codigo_despues = " comment=Bloqueo Mintic_by_Oscar_Castillo"
 
 with open('urls_con_codigos.txt', 'w') as file:
     for url in urls:
