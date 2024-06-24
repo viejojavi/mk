@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,24 +17,29 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.8'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
 
-    - name: Run script
-      run: |
-        python extraer_dominios.py
+    - name: Run script to extract domains and paths
+      run: python extraer_dominios.py
 
-    - name: Upload dominio_unicos artifact
+    - name: Upload dominios_unicos.txt
       uses: actions/upload-artifact@v2
       with:
         name: dominios_unicos
         path: dominios_unicos.txt
 
-    - name: Upload urls_con_codigos artifact
+    - name: Upload urls_con_codigos.txt
       uses: actions/upload-artifact@v2
       with:
         name: urls_con_codigos
         path: urls_con_codigos.txt
+
+    - name: Upload urls_divididas.txt
+      uses: actions/upload-artifact@v2
+      with:
+        name: urls_divididas
+        path: urls_divididas.txt
