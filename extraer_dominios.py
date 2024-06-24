@@ -18,7 +18,6 @@ def obtener_dominio(url):
 def limpiar_url(url):
     url = re.sub(r'^https?://', '', url)  # Eliminar http:// o https://
     return url
-
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
     try:
@@ -27,7 +26,7 @@ def dividir_url(url):
         if dominio.startswith("www."):
             dominio = dominio[4:]  # Remover el prefijo 'www.'
         path = parsed_url.path
-        print(f"Dominio: {dominio}, Path: {path} para URL: {url}")
+        print(f"dst-host={dominio} path={path} para URL: {url}")
         return dominio, path
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
