@@ -16,17 +16,28 @@ if len(urls) > 0:
     print(f"Primera URL: {urls[0].strip()}")
     print(f"Última URL: {urls[-1].strip()}")
 
-# Generar archivo con líneas de código antes y después de cada URL
+# Generar archivo con líneas de código antes y después de cada URL, eliminando duplicados
 codigo_antes_con_codigos = "add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = " delay 1"
+
+# Utilizar un conjunto para almacenar los dominios únicos
+dominios_unicos = set()
 
 with open('urls_con_codigos.txt', 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             url_limpia = limpiar_url(url)
-            file.write(f"{codigo_antes_con_codigos}{url_limpia}{codigo_despues_con_codigos}\n")
+            parsed_url = urlparse(url_limpia)
+            dominio = parsed_url.netloc
+            if dominio.startswith("www."):
+                dominio = dominio[4:]  # Remover el prefijo 'www.'
+            
+            # Verificar si el dominio ya ha sido procesado para evitar duplicados
+            if dominio not in dominios_unicos:
+                dominios_unicos.add(dominio)
+                file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
         
         # Agregar línea con delay cada 50 líneas
         if (i + 1) % 50 == 0:
@@ -42,13 +53,12 @@ def dividir_url(url):
         if dominio.startswith("www."):
             dominio = dominio[4:]  # Remover el prefijo 'www.'
         path = parsed_url.path
-        print(f"dst-host={dominio} path={path} para URL: {url}")
         return dominio, path
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
         return None, None
 
-# Generar archivo con dominio y path de cada URL
+# Generar archivo con dominio y path de cada URL, sin eliminar duplicados
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
