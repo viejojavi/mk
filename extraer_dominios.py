@@ -76,8 +76,11 @@ with open('urls_divididas.txt', 'w') as file:
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             dominio, path = dividir_url(url)
-            if dominio and path is not None:
-                file.write(f"dst-host={dominio} path={path}\n")
+            if dominio is not None:
+                if path:
+                    file.write(f"dst-host={dominio}, path={path}\n")
+                else:
+                    file.write(f"dst-host={dominio}\n")
 
 print("Proceso completado. Los dominios únicos se han guardado en 'dominios_unicos.txt'.")
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
