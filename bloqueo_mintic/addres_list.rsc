@@ -82,8 +82,6 @@ add list=bloqueo_mintic address="ls-magazine.one" comment="Bloqueo Mintic by Osc
 add list=bloqueo_mintic address="firsttoo.bid" comment="Bloqueo Mintic by Oscar Castillo"
 add list=bloqueo_mintic address="mixedvids.site" comment="Bloqueo Mintic by Oscar Castillo"
 add list=bloqueo_mintic address="xxxcase.com" comment="Bloqueo Mintic by Oscar Castillo"
-add list=bloqueo_mintic address="http:xxxcase.compage.php?id5" comment="Bloqueo Mintic by Oscar Castillo"
-add list=bloqueo_mintic address="http:xxxcase.compage.php?id23" comment="Bloqueo Mintic by Oscar Castillo"
 add list=bloqueo_mintic address="img24.cz" comment="Bloqueo Mintic by Oscar Castillo"
 add list=bloqueo_mintic address="teenangels.click" comment="Bloqueo Mintic by Oscar Castillo"
 add list=bloqueo_mintic address="teenboombaam.top" comment="Bloqueo Mintic by Oscar Castillo"
