@@ -15,9 +15,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4.8.0  # Asegurándonos de usar la última versión disponible
         with:
           python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run URL processing script
         run: python extraer_dominios.py
