@@ -19,7 +19,7 @@
 delay delay-time=5s
 /file/remove addres_list.rsc
 :put "lista eliminada"
-/file/remove urls.rsc
+/file/remove acces.rsc
 :put "Acces eliminados"
 /file/remove inicial.rsc
 :put "Tarea Finalizada"
