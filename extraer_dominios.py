@@ -37,10 +37,10 @@ with open('address_list.rsc', 'w') as file:
         if url:  # Asegurarse de que la URL no esté vacía
             dominio_limpio = limpiar_url(url)
             file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
-            
-            # Agregar línea con delay cada 50 líneas
-            if (i + 1) % 50 == 0:
-                file.write(codigo_con_delay + "\n")
+        
+        # Agregar línea con delay cada 50 líneas
+        if (i + 1) % 50 == 0:
+            file.write(f"{codigo_con_delay}\n")
 
 print("Archivo con URLs y códigos se ha guardado en 'address_list.rsc'.")
 
