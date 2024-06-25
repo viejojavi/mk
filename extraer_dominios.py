@@ -1,5 +1,6 @@
 import re
 from urllib.parse import urlparse
+import shutil
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -20,9 +21,9 @@ if len(urls) > 0:
     print(f"Última URL: {urls[-1].strip()}")
 
 # Generar archivo con líneas de código antes y después de cada URL
-codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic address="
+codigo_antes_con_codigos = "/ip firewall address-list add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
-codigo_con_delay = "delay 1"
+codigo_con_delay = "/delay 1"
 
 with open('address_list.rsc', 'w') as file:
     for i, url in enumerate(urls):
@@ -52,7 +53,7 @@ def dividir_url(url):
         return None, None
 
 # Generar archivo con dominio y path de cada URL
-codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
+codigo_antes_divididas = "/ip proxy access add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
 with open('acces.rsc', 'w') as file:
@@ -73,7 +74,6 @@ with open('acces.rsc', 'w') as file:
 print("Archivo con dominios y paths se ha guardado en 'acces.rsc'.")
 
 # Guardar el archivo con el nuevo nombre
-import shutil
 shutil.copy('address_list.rsc', 'acces.rsc')
 
 print("Archivo 'address_list.rsc' se ha copiado como 'acces.rsc'.")
