@@ -1,5 +1,8 @@
 import re
 from urllib.parse import urlparse
+import os
+import shutil
+
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
     parsed_url = urlparse(url)
@@ -7,30 +10,41 @@ def limpiar_url(url):
     if dominio.startswith("www."):
         dominio = dominio[4:]  # Remover el prefijo 'www.'
     return dominio
+
+# Verificar si el archivo listado_urls.txt existe
+input_file = 'listado_urls.txt'
+if not os.path.isfile(input_file):
+    raise FileNotFoundError(f"No se encontró el archivo: {input_file}")
+
 # Leer el listado de URLs desde un archivo
-with open('listado_urls.txt', 'r') as file:
+with open(input_file, 'r') as file:
     urls = file.readlines()
+
 # Verificar si las URLs fueron leídas correctamente
 print(f"URLs leídas: {len(urls)}")
 if len(urls) > 0:
     print(f"Primera URL: {urls[0].strip()}")
     print(f"Última URL: {urls[-1].strip()}")
+
 # Generar archivo con líneas de código antes y después de cada URL
-codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic address="
+codigo_antes_con_codigos = "/ip firewall address-list add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
-codigo_con_delay = "delay 1"
-with open('urls_con_codigos.txt', 'w') as file:
+codigo_con_delay = "/delay 1"
+
+output_file_address_list = 'address_list.txt'
+with open(output_file_address_list, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             dominio_limpio = limpiar_url(url)
             file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
-            
-            # Agregar línea con delay cada 50 líneas
-            if (i + 1) % 50 == 0:
-                file.write(codigo_con_delay + "\n")
+        
+        # Agregar línea con delay cada 50 líneas
+        if (i + 1) % 50 == 0:
+            file.write(f"{codigo_con_delay}\n")
 
-print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
+print(f"Archivo con URLs y códigos se ha guardado en '{output_file_address_list}'.")
+
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
     try:
@@ -44,10 +58,13 @@ def dividir_url(url):
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
         return None, None
+
 # Generar archivo con dominio y path de cada URL
-codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
+codigo_antes_divididas = "/ip proxy access add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
-with open('urls_divididas.txt', 'w') as file:
+
+output_file_urls_divididas = 'urls_divididas.txt'
+with open(output_file_urls_divididas, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -61,8 +78,9 @@ with open('urls_divididas.txt', 'w') as file:
             # Agregar línea con delay cada 50 líneas
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
-print("Archivo con dominios y paths se ha guardado en 'urls_divididas.txt'.")
+
+print(f"Archivo con dominios y paths se ha guardado en '{output_file_urls_divididas}'.")
+
 # Guardar el archivo con el nuevo nombre
-import shutil
-shutil.copy('urls_con_codigos.txt', 'listado_urls.rsc')
-print("Archivo 'urls_con_codigos.txt' se ha copiado como 'listado_urls.rsc'.")
+shutil.copy(output_file_address_list, 'listado_urls.rsc')
+print(f"Archivo '{output_file_address_list}' se ha copiado como 'listado_urls.rsc'.")
