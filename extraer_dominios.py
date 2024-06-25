@@ -1,6 +1,5 @@
 import re
 from urllib.parse import urlparse
-import os
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -37,20 +36,6 @@ with open('urls_con_codigos.txt', 'w') as file:
                 file.write(codigo_con_delay + "\n")
 
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
-
-if __name__ == "__main__":
-    url_listado = "https://github.com/viejojavi/mk/blob/main/bloqueo_mintic/listado_urls.rsc"  # Actualiza esta URL con la URL real
-    archivo_salida = "listado_urls.rsc"
-    ruta_bloqueo_mintic = "bloqueo_mintic"
-
-    dominios = extraer_dominios(url_listado)
-    guardar_dominios(dominios, archivo_salida)
-    
-    # Crear el directorio si no existe
-    os.makedirs(ruta_bloqueo_mintic, exist_ok=True)
-    
-    # Mover el archivo a la subcarpeta bloqueo_mintic
-    os.system(f'mv {archivo_salida} {ruta_bloqueo_mintic}/{archivo_salida}')
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
