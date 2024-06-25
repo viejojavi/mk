@@ -1,7 +1,7 @@
 import re
 from urllib.parse import urlparse
-import shutil
 import os
+import shutil
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -31,7 +31,8 @@ codigo_antes_con_codigos = "/ip firewall address-list add list=bloqueo_mintic ad
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "/delay 1"
 
-with open('address_list.rsc', 'w') as file:
+output_file_address_list = 'address_list.rsc'
+with open(output_file_address_list, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -42,7 +43,7 @@ with open('address_list.rsc', 'w') as file:
         if (i + 1) % 50 == 0:
             file.write(f"{codigo_con_delay}\n")
 
-print("Archivo con URLs y códigos se ha guardado en 'address_list.rsc'.")
+print(f"Archivo con URLs y códigos se ha guardado en '{output_file_address_list}'.")
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -62,7 +63,8 @@ def dividir_url(url):
 codigo_antes_divididas = "/ip proxy access add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
-with open('acces.rsc', 'w') as file:
+output_file_access = 'acces.rsc'
+with open(output_file_access, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -77,9 +79,10 @@ with open('acces.rsc', 'w') as file:
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
-print("Archivo con dominios y paths se ha guardado en 'acces.rsc'.")
+print(f"Archivo con dominios y paths se ha guardado en '{output_file_access}'.")
 
-# Guardar el archivo con el nuevo nombre
-shutil.copy('address_list.rsc', 'address_list_backup.rsc')
+# Guardar el archivo de respaldo
+backup_file = 'address_list_backup.rsc'
+shutil.copy(output_file_address_list, backup_file)
 
-print("Archivo 'address_list.rsc' se ha copiado como 'address_list_backup.rsc'.")
+print(f"Archivo '{output_file_address_list}' se ha copiado como '{backup_file}'.")
