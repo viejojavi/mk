@@ -125,7 +125,7 @@ http://xxxcase.com
 http://xxxcase.com
 http://xxxcase.com
 http://xxxcase.com
-http://http:xxxcase.compage.php?id5
+http://xxxcase.com/page.php?id5
 http://xxxcase.com
 http://xxxcase.com
 http://xxxcase.com
