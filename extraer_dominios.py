@@ -21,21 +21,12 @@ codigo_antes_con_codigos = "add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "delay 1"
 
-# Extraer dominios únicos y eliminar duplicados
-dominios = set()
-for url in urls:
-    url = url.strip()
-    if url:  # Asegurarse de que la URL no esté vacía
-        dominio = obtener_dominio(url)
-        if dominio:
-            dominios.add(dominio)
-
 with open('urls_con_codigos.txt', 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             url_limpia = limpiar_url(url)
-            file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
+            file.write(f"{codigo_antes_con_codigos}{url_limpia}{codigo_despues_con_codigos}\n")
             
             # Agregar línea con delay cada 50 líneas
             if (i + 1) % 50 == 0:
