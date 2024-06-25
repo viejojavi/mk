@@ -16,6 +16,24 @@ if len(urls) > 0:
     print(f"Primera URL: {urls[0].strip()}")
     print(f"Última URL: {urls[-1].strip()}")
 
+# Generar archivo con líneas de código antes y después de cada URL
+codigo_antes_con_codigos = "add list=bloqueo_mintic address="
+codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
+codigo_con_delay = "delay 1"
+
+with open('urls_con_codigos.txt', 'w') as file:
+    for i, url in enumerate(urls):
+        url = url.strip()
+        if url:  # Asegurarse de que la URL no esté vacía
+            dominio_limpio = limpiar_url(url)
+            file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
+            
+            # Agregar línea con delay cada 50 líneas
+            if (i + 1) % 50 == 0:
+                file.write(codigo_con_delay + "\n")
+
+print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
+
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
     try:
@@ -29,24 +47,6 @@ def dividir_url(url):
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
         return None, None
-
-# Generar archivo con líneas de código antes y después de cada URL
-codigo_antes_con_codigos = "add list=bloqueo_mintic address="
-codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
-codigo_con_delay = "delay 1"
-
-with open('urls_con_codigos.txt', 'w') as file:
-    for i, url in enumerate(urls):
-        url = url.strip()
-        if url:  # Asegurarse de que la URL no esté vacía
-            url_limpia = limpiar_url(url)
-            file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
-            
-            # Agregar línea con delay cada 50 líneas
-            if (i + 1) % 50 == 0:
-                file.write(codigo_con_delay + "\n")
-
-print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
 
 # Generar archivo con dominio y path de cada URL
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
