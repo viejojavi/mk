@@ -11,13 +11,13 @@
 /ip/proxy/set enabled=yes port=999 max-cache-size=2048
 :put "Proxy habilitado"
 :foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo_Mintic_by_Oscar_Castillo"] do={/ip/firewall/address-list/remove $item}
-/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/address_list.rsc"; import file-name=addres_list.rsc
+/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/address_list.rsc"; import file-name=address_list.rsc
 :put "Lista Agregada"
 :foreach item in=[/ip/proxy/access/find where comment="bloqueo_mintic"] do={/ip/proxy/access/remove $item}
-/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/acces.rsc"; import file-name=urls.rsc
+/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/acces.rsc"; import file-name=acces.rsc
 :put "Access agregados"
 delay delay-time=5s
-/file/remove addres_list.rsc
+/file/remove address_list.rsc
 :put "lista eliminada"
 /file/remove acces.rsc
 :put "Acces eliminados"
