@@ -20,7 +20,7 @@ if len(urls) > 0:
     print(f"Última URL: {urls[-1].strip()}")
 
 # Generar archivo con líneas de código antes y después de cada URL
-codigo_antes_con_codigos = "add list=bloqueo_mintic address="
+codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "delay 1"
 
