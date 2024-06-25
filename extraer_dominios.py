@@ -42,6 +42,9 @@ def dividir_url(url):
         parsed_url = urlparse(url)
         dominio = parsed_url.netloc
         path = parsed_url.path
+        # Verificar si el path termina solo con '/'
+        if path == '/':
+            path = ''  # Si es así, dejar el path vacío
         print(f"dst-host={dominio} path={path} para URL: {url}")
         return dominio, path
     except Exception as e:
