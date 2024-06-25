@@ -2,12 +2,10 @@ import re
 from urllib.parse import urlparse
 import shutil
 
-# Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
+# Función para limpiar el prefijo http:// y https:// de una URL
 def limpiar_url(url):
     parsed_url = urlparse(url)
     dominio = parsed_url.netloc
-    if dominio.startswith("www."):
-        dominio = dominio[4:]  # Remover el prefijo 'www.'
     return dominio
 
 # Leer el listado de URLs desde un archivo
@@ -43,8 +41,6 @@ def dividir_url(url):
     try:
         parsed_url = urlparse(url)
         dominio = parsed_url.netloc
-        if dominio.startswith("www."):
-            dominio = dominio[4:]  # Remover el prefijo 'www.'
         path = parsed_url.path
         print(f"dst-host={dominio} path={path} para URL: {url}")
         return dominio, path
