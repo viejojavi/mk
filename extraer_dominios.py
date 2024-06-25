@@ -24,7 +24,7 @@ codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic ad
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "delay 1"
 
-with open('urls_con_codigos.txt', 'w') as file:
+with open('address_list.txt', 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -35,7 +35,7 @@ with open('urls_con_codigos.txt', 'w') as file:
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
-print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
+print("Archivo con URLs y códigos se ha guardado en 'address_list.txt'.")
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -55,7 +55,7 @@ def dividir_url(url):
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
-with open('urls_divididas.txt', 'w') as file:
+with open('acces.txt', 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -70,10 +70,10 @@ with open('urls_divididas.txt', 'w') as file:
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
-print("Archivo con dominios y paths se ha guardado en 'urls_divididas.txt'.")
+print("Archivo con dominios y paths se ha guardado en 'acces.txt'.")
 
 # Guardar el archivo con el nuevo nombre
 import shutil
-shutil.copy('urls_con_codigos.txt', 'listado_urls.rsc')
+shutil.copy('address_list.rsc', 'acces.rsc')
 
-print("Archivo 'urls_con_codigos.txt' se ha copiado como 'listado_urls.rsc'.")
+print("Archivo 'address_list.rsc' se ha copiado como 'acces.rsc'.")
