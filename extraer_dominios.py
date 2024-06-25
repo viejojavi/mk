@@ -1,10 +1,13 @@
 import re
 from urllib.parse import urlparse
 
-# Función para limpiar el prefijo http:// y https:// de una URL
+# Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
-    url = re.sub(r'^https?://', '', url)  # Eliminar http:// o https://
-    return url
+    parsed_url = urlparse(url)
+    dominio = parsed_url.netloc
+    if dominio.startswith("www."):
+        dominio = dominio[4:]  # Remover el prefijo 'www.'
+    return dominio
 
 # Leer el listado de URLs desde un archivo
 with open('listado_urls.txt', 'r') as file:
