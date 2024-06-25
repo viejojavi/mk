@@ -1,6 +1,6 @@
 import re
 from urllib.parse import urlparse
-import shutil
+import os
 
 # Función para limpiar el prefijo http:// y https:// de una URL
 def limpiar_url(url):
@@ -23,7 +23,15 @@ codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic ad
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "delay 1"
 
-with open('address_list.txt', 'w') as file:
+# Crear la carpeta bloqueo_mintic si no existe
+carpeta_bloqueo = 'bloqueo_mintic'
+if not os.path.exists(carpeta_bloqueo):
+    os.makedirs(carpeta_bloqueo)
+
+# Ruta completa del archivo address_list.rsc
+address_list_path = os.path.join(carpeta_bloqueo, 'address_list.rsc')
+
+with open(address_list_path, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -34,7 +42,7 @@ with open('address_list.txt', 'w') as file:
         if (i + 1) % 50 == 0:
             file.write(f"{codigo_con_delay}\n")
 
-print("Archivo con URLs y códigos se ha guardado en 'address_list.txt'.")
+print(f"Archivo con URLs y códigos se ha guardado en '{address_list_path}'.")
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -55,7 +63,10 @@ def dividir_url(url):
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
-with open('acces.txt', 'w') as file:
+# Ruta completa del archivo acces.rsc
+acces_path = os.path.join(carpeta_bloqueo, 'acces.rsc')
+
+with open(acces_path, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -68,10 +79,11 @@ with open('acces.txt', 'w') as file:
             
             # Agregar línea con delay cada 50 líneas
             if (i + 1) % 50 == 0:
-                file.write(codigo_con_delay + "\n")
+                file.write(f"{codigo_con_delay}\n")
 
-print("Archivo con dominios y paths se ha guardado en 'acces.txt'.")
+print(f"Archivo con dominios y paths se ha guardado en '{acces_path}'.")
 
-# Guardar el archivo con el nuevo nombre
-shutil.copy('address_list.txt', 'listado_urls.rsc')
-print("Archivo 'address_list.txt' se ha copiado como 'listado_urls.rsc'.")
+# Copiar el archivo address_list.rsc como listado_urls.rsc en la misma carpeta
+listado_urls_path = os.path.join(carpeta_bloqueo, 'listado_urls.rsc')
+shutil.copy(address_list_path, listado_urls_path)
+print(f"Archivo '{address_list_path}' se ha copiado como '{listado_urls_path}'.")
