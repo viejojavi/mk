@@ -1,7 +1,6 @@
 import re
 from urllib.parse import urlparse
 import os
-import requests
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
