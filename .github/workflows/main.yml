@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout código
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Actualización a la versión v3 de actions/checkout
 
       - name: Ejecutar script Python
         run: python extraer_dominios.py
