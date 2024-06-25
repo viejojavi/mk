@@ -89,7 +89,7 @@ subcarpeta = 'bloqueo_mintic'
 token = os.getenv('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')
 
 # Crear una instancia de la clase Github usando el token
-github = Github(token)
+github = Github(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)
 
 # Obtener el repositorio
 repo = github.get_repo('viejojavi/mk')  # Reemplaza 'usuario/repo' con tu nombre de usuario y nombre de repositorio
