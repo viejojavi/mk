@@ -74,38 +74,3 @@ import shutil
 shutil.copy('urls_con_codigos.txt', 'listado_urls.rsc')
 
 print("Archivo 'urls_con_codigos.txt' se ha copiado como 'listado_urls.rsc'.")
-
-import os
-from github import Github
-
-# Nombre del archivo que queremos actualizar en el repositorio
-archivo_actualizar = 'listado_urls.rsc'
-# Ruta local del archivo que queremos actualizar en el repositorio
-archivo_local = 'urls_con_codigos.txt'
-# Ruta de la subcarpeta donde se encuentra listado_urls.rsc en el repositorio
-subcarpeta = 'bloqueo_mintic'
-
-# Obtener el token de autenticación de GitHub desde las secrets
-token = os.getenv('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')
-
-# Crear una instancia de la clase Github usando el token
-github = Github(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)
-
-# Obtener el repositorio
-repo = github.get_repo('viejojavi/mk')  # Reemplaza 'usuario/repo' con tu nombre de usuario y nombre de repositorio
-
-# Leer el contenido del archivo local
-with open(archivo_local, 'r', encoding='utf-8') as file:
-    contenido = file.read()
-
-# Actualizar el contenido del archivo en el repositorio
-try:
-    # Obtener el contenido del archivo en la subcarpeta del repositorio
-    ruta_archivo = f"{subcarpeta}/{archivo_actualizar}"
-    archivo = repo.get_contents(ruta_archivo)
-    
-    # Actualizar el archivo con el contenido nuevo
-    repo.update_file(archivo.path, f"Actualización de {archivo_actualizar}", contenido, archivo.sha)
-    print(f"Archivo {archivo_actualizar} actualizado correctamente en la subcarpeta {subcarpeta}.")
-except Exception as e:
-    print(f"Error al actualizar el archivo {archivo_actualizar}: {e}")
