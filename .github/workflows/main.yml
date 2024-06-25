@@ -27,11 +27,11 @@ jobs:
       - name: Run URL processing script
         run: python extraer_dominios.py
 
-      - name: Upload urls_con_codigos artifact
+      - name: Upload address_list artifact
         uses: actions/upload-artifact@v4
         with:
-          name: urls_con_codigos
-          path: urls_con_codigos.txt
+          name: address_list
+          path: address_list.txt
 
       - name: Upload urls_divididas artifact
         uses: actions/upload-artifact@v4
