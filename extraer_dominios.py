@@ -19,7 +19,7 @@ if len(urls) > 0:
 # Generar archivo con líneas de código antes y después de cada URL
 codigo_antes_con_codigos = "add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
-codigo_con_delay = " delay 1"
+codigo_con_delay = "delay 1"
 
 with open('urls_con_codigos.txt', 'w') as file:
     for i, url in enumerate(urls):
@@ -27,10 +27,10 @@ with open('urls_con_codigos.txt', 'w') as file:
         if url:  # Asegurarse de que la URL no esté vacía
             url_limpia = limpiar_url(url)
             file.write(f"{codigo_antes_con_codigos}{url_limpia}{codigo_despues_con_codigos}\n")
-        
-        # Agregar línea con delay cada 50 líneas
-        if (i + 1) % 50 == 0:
-            file.write(f"{codigo_con_delay}\n")
+            
+            # Agregar línea con delay cada 50 líneas
+            if (i + 1) % 50 == 0:
+                file.write(codigo_con_delay + "\n")
 
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
 
@@ -68,4 +68,9 @@ with open('urls_divididas.txt', 'w') as file:
                 file.write(codigo_con_delay + "\n")
 
 print("Archivo con dominios y paths se ha guardado en 'urls_divididas.txt'.")
-print("Proceso completado. Los dominios únicos se han guardado en 'dominios_unicos.txt'.")
+
+# Guardar el archivo con el nuevo nombre
+import shutil
+shutil.copy('urls_con_codigos.txt', 'listado_urls.rsc')
+
+print("Archivo 'urls_con_codigos.txt' se ha copiado como 'listado_urls.rsc'.")
