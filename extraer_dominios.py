@@ -35,6 +35,10 @@ with open('urls_con_codigos.txt', 'w') as file:
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
+# Mueve el archivo a la subcarpeta bloqueo_mintic
+    os.makedirs(bloqueo_mintic, exist_ok=True)
+    os.system(f'mv {archivo_salida} {bloqueo_mintic}/{alistado_urls.rsc}')
+
 print("Archivo con URLs y códigos se ha guardado en 'urls_con_codigos.txt'.")
 
 # Función para dividir una URL en dominio y path
