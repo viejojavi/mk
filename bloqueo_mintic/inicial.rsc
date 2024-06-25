@@ -14,7 +14,7 @@
 /tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/address_list.rsc"; import file-name=addres_list.rsc
 :put "Lista Agregada"
 :foreach item in=[/ip/proxy/access/find where comment="bloqueo_mintic"] do={/ip/proxy/access/remove $item}
-/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/urls.rsc"; import file-name=urls.rsc
+/tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/acces.rsc"; import file-name=urls.rsc
 :put "Access agregados"
 delay delay-time=5s
 /file/remove addres_list.rsc
