@@ -56,7 +56,7 @@ def dividir_url(url):
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
-with open('urls_divididas.txt', 'w') as file:
+with open('acces.txt', 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -71,7 +71,7 @@ with open('urls_divididas.txt', 'w') as file:
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
-print("Archivo con dominios y paths se ha guardado en 'urls_divididas.txt'.")
+print("Archivo con dominios y paths se ha guardado en 'acces.txt'.")
 
 # Guardar el archivo con el nuevo nombre
 shutil.copy('address_list.txt', 'listado_urls.rsc')
