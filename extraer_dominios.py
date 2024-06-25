@@ -1,6 +1,7 @@
 import re
 from urllib.parse import urlparse
 import shutil
+import os
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -10,8 +11,13 @@ def limpiar_url(url):
         dominio = dominio[4:]  # Remover el prefijo 'www.'
     return dominio
 
+# Verificar si el archivo listado_urls.txt existe
+input_file = 'listado_urls.txt'
+if not os.path.isfile(input_file):
+    raise FileNotFoundError(f"No se encontró el archivo: {input_file}")
+
 # Leer el listado de URLs desde un archivo
-with open('listado_urls.txt', 'r') as file:
+with open(input_file, 'r') as file:
     urls = file.readlines()
 
 # Verificar si las URLs fueron leídas correctamente
@@ -74,6 +80,6 @@ with open('acces.rsc', 'w') as file:
 print("Archivo con dominios y paths se ha guardado en 'acces.rsc'.")
 
 # Guardar el archivo con el nuevo nombre
-shutil.copy('address_list.rsc', 'acces.rsc')
+shutil.copy('address_list.rsc', 'address_list_backup.rsc')
 
-print("Archivo 'address_list.rsc' se ha copiado como 'acces.rsc'.")
+print("Archivo 'address_list.rsc' se ha copiado como 'address_list_backup.rsc'.")
