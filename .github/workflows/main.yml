@@ -33,11 +33,11 @@ jobs:
           name: address_list
           path: address_list.txt
 
-      - name: Upload urls_divididas artifact
+      - name: Upload acces artifact
         uses: actions/upload-artifact@v4
         with:
-          name: urls_divididas
-          path: urls_divididas.txt
+          name: acces
+          path: acces.txt
 
       - name: Upload updated listado_urls.rsc
         uses: actions/upload-artifact@v4
