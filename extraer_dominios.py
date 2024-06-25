@@ -1,11 +1,14 @@
 import re
 from urllib.parse import urlparse
 import os
+import shutil  # Importar shutil para utilizar operaciones de copia de archivos
 
-# Función para limpiar el prefijo http:// y https:// de una URL
+# Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
     parsed_url = urlparse(url)
     dominio = parsed_url.netloc
+    if dominio.startswith("www."):
+        dominio = dominio[4:]  # Remover el prefijo 'www.'
     return dominio
 
 # Leer el listado de URLs desde un archivo
