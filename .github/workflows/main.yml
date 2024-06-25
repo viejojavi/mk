@@ -1,46 +1,26 @@
-name: Procesar URLs
+name: Generar archivos de configuración
 
 on:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
-  process_urls:
+  generar-archivos:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout código
+        uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run URL processing script
+      - name: Ejecutar script Python
         run: python extraer_dominios.py
 
-      - name: Upload address_list artifact
-        uses: actions/upload-artifact@v4
+      - name: Subir archivos como artefactos
+        if: success()
+        uses: actions/upload-artifact@v2
         with:
-          name: address_list
-          path: address_list.txt
-
-      - name: Upload acces artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: acces
-          path: acces.txt
-
-      - name: Upload updated listado_urls.rsc
-        uses: actions/upload-artifact@v4
-        with:
-          name: listado_urls
-          path: listado_urls.rsc
+          name: Archivos de configuración
+          path: |
+            bloqueo_mintic/listado_urls.rsc
+            bloqueo_mintic/acces.rsc
+            bloqueo_mintic/address_list.rsc
