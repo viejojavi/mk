@@ -24,8 +24,7 @@ jobs:
         pip install idna
 
     - name: Run Python script
-      run: |
-        python extraer_dominios.py
+      run: python extraer_dominios.py
 
     - name: Upload archivos
       uses: actions/upload-artifact@v4
