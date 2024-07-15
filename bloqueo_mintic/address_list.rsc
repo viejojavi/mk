@@ -1021,7 +1021,6 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=7bitcasinonews.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=7bitpartners.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=7godscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-/ip/firewall/address-list/add list=bloqueo_mintic address=7https: comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=7kjuego09.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=7luck88.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=7melons.ch comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1068,8 +1067,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=888poker.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=888spin.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=888sport.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=888sport.es comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=888sport.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=888starz-argentina.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=888starz-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1119,8 +1118,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=99bitcoins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=99casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=99crowna.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=9allrightcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=9nudist.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=9redping.win comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=9slottica.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1170,8 +1169,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=academiadasapostasmz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=academiadeapostas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=academiadeapuestasargentina.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=academiadeapuestaslatam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=acb-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=acbet.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=accanation.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1221,8 +1220,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aeehp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aemaldives.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=af.casinobonuscenter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=af.usa-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=af7pokerdom.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=afehc-historia-centroamericana.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=affactive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1272,8 +1271,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=al.casinogames77.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aladdinsgoldcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aladdinslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=alanbrazilcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=alanobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=alanobet88.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=albanianporntube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1323,8 +1322,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=allcasinoscanada.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allcasinosite.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=alldaypoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=alldesires.icu comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=allecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allfreechips.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allfreespins.org comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1374,8 +1373,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=allslotscasinopokies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allspins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allsport365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=allsportingbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=allstar-bets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allstargambling.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=allstargames.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1425,8 +1424,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=amazoncasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=amazonslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ambbet777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=amber.tiny-jewels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=amcolourher.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=america777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=americagambles.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1476,8 +1475,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=angels.hotdolls.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=angelstube.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=angelswebportal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=angelteenstube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=angelwitch.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=angelzland.men comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=anghelina5.feburo.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1527,8 +1526,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aposta.legal comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aposta1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aposta10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aposta365.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aposta365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostaaqui.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostacorreta.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1578,8 +1577,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasdesportivas.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostaseguro.pro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasepoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasesportiva.vip comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasesportivas.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasesportivas24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apostasesportivas24.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1629,8 +1628,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestaoro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestapedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestarapida.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestas-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestas-copadelmundo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestas-deportivas-mexico.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestas-deportivas-online.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1680,8 +1679,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivas24.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivas24.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivas247.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivas247.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivas24h.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivasargentina.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestasdeportivasargentina.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1731,8 +1730,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuestivas.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=apuesto.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ar-bookmaker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=arabcasinos-it.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=arabet.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=arabian-casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=arabianbetting.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1782,8 +1781,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=art.showbody.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=artbbs-image.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=artbbs.space comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=artbetting-az.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=artcasino.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=artemisbet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=artislive.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1833,8 +1832,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aspireglobalcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ass-teen.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=asset-7.soup.io comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=assets00.grou.ps comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=assistbet.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=assmii.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=assopoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1884,8 +1883,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussiecasinohex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussieonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussieonlinecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussieplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussieplaybonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aussportsbetting.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=austinchronicle.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1935,8 +1934,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=avengerslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=aviatorplaygame.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=avis-casinos-en-ligne.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=aviscasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=avissurcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=avtomaty-besplatno.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=awaygrounds.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -1986,8 +1985,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=b8.us.is.pp.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=b88sg3.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=b9.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=b9.eu.icdn.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=b9.us.icdn.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=b9.us.is.pp.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=b9casino.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2037,8 +2036,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahisram214.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahistahminbets.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahistanbul.icu comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahisu2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahisyenisitesi2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahrain-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bahsegel.club comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2088,8 +2087,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=barbadoscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=barbielike.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=barbiporn.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=barby.stylish-models.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=barelygirls.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=barenudism.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bariteq.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2139,8 +2138,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=baymavi472.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=baymavi485.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=baymavigiris11.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=baysansli142.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=baysansli144.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=baysansli145.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=baysansli147.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2190,8 +2189,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrbet46.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrbet51.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrbet7.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrbet88.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrbet90.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrblazed.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bbrblazer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2241,8 +2240,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bcvt.hucufob.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bd-sisters.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bdmbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=beabetterbettor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=beachnudist.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=beachsoccerbrasil.com.br comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=beastsofpoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2292,8 +2291,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=berrylike.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=berryteenies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bertil.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bery.igopotash.site comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=best-aucasinosites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=best-blackjack.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=best-canadian-casinos.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2343,8 +2342,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbettingsites.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbettingwebsites.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbingosites.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbingowebsites.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbingowebsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestbitcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2394,8 +2393,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinosites.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinosites.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinositescanada.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinositesireland.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinositesnewzealand.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinositesonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestcasinositesphilippines.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2445,8 +2444,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestjapancasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestlinks.gq comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestlistcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestmature.top comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestmegareelsites.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestnetentcasino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestnewbingosites.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2496,8 +2495,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestslots.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestslotsjournal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestsportsbetting.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestsportsbooks.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestteenporntube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=besttroncasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bestuk.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2547,8 +2546,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet007.es comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet1015.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet105.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet11888.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet1234.co comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2598,8 +2597,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4jay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4joy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4profits.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4u.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4u.club comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4u.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bet4win.it comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2649,8 +2648,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betatesports.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbaba.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbaba1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbahiscin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbanks.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbarter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betbellavegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2700,8 +2699,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betconfirm.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betconnect.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betcos1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betcosmos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betcris.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betcris.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betcris.pl comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2751,8 +2750,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betgold.coM comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betgolf.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betgool.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betgoto.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betgrandprive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bethap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bethard.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2802,8 +2801,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon333.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon334.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon335.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon338.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon339.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon343.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betkanyon345.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2853,8 +2852,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmaster-es.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmaster.club comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmaster.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmaster.com.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmaster.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmasterlive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betmasterplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2904,8 +2903,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=beto-spillemaskiner.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=beto.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betobet-chile.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betobet.one comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betobet.online comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betobeto.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -2955,8 +2954,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betpawa.ug comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betpepe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betpepe.es comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betphoenix.ag comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betpix365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betplay.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betplayco.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3006,8 +3005,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets-times.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets-us.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets.drf.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bets.io comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3057,8 +3056,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betsonly.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betsonly.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betspalace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betspin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betsport247.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betsportnew.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betsportslive.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3108,8 +3107,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-experts.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-india.pro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-king.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-offers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-sites.africa comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-sites.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betting-sites.me.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3159,8 +3158,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingphilippines.online comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingphp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingplanet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingpro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingpros.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingpunter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingranker.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3210,8 +3209,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingworld.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingworx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettingy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettors.co.ke comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettors.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betturkey490.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bettwon.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3261,8 +3260,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinnerapk.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinnerapp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinnercolombia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinnerlive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinug.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwinvalue.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=betwoon506.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3312,8 +3311,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigbonus.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigbonus.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigbonusbets.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigboost.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigcum.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bigfreebet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bighotcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3363,8 +3362,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.games comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.ie comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.paddypower.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.re comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo.vg comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3414,8 +3413,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo77taiwan.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo77togo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo77tunisia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo77usa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingo77venezuela.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingoanalyst.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingoappguide.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3465,8 +3464,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingomum.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingon.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingon.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingonario.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingonews.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingoo.be comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bingoole.games comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3516,8 +3515,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcasinorank.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcasinos.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcasinosite.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitchclips.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcoin-casino-no-deposit-bonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcoin-casinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitcoin-viet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3567,8 +3566,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitkingz1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitkong.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitplay.club comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitreels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitreviews.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitshills.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bitsler.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3618,8 +3617,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk-betwinner1.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk1xbet.mobi comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk4.vidx.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk8.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk8mya.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk8php.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bk8secure.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3669,8 +3668,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackgames.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackgeeks.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackhero.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackinfo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackinformer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjacklivedealer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blackjackmetro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3720,8 +3719,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blockworks.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blog-imgs-69.fc2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blog-imgs-73-origin.fc2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blog-imgs-75.fc2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=blog.clickgratis.com.br comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blog.mk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=blogabet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3771,8 +3770,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bombpoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonanzagame.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonanzagame15.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonanzagame6.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonethreads.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bong188.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bongo.gg comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3822,8 +3821,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus.express comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus.net.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus.report comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus.wiki comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonus4casino.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusatcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3873,8 +3872,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusheroes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusho.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusi.co comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusinsider.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonusjungle.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonuskings.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bonuskod-bet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3924,8 +3923,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookieblitz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookieradar.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookiesbonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookiesinfo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookiesnorge.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bookiesnorge.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -3975,8 +3974,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=boomtownbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=boomtowncasino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=boomtowneworleans.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=boonuspart.ee comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=boos.pyramida.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=boostcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=bootleggercasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4026,8 +4025,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=brightlightcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=brightstarcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=brillx49.gg comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=bringobingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=britannina.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=britishgambler.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=britishracecourses.org comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4077,8 +4076,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=busr.ag comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=busterbanks.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=busybeebingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=busybeecasino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=butipics.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=butlersbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=butterflybingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4128,8 +4127,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cambetray.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=camelbet.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=camelbet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=camelbet.vip comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=camgirl.gallery comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=camgirlvideos.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=camkitties.co comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4179,8 +4178,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=canadianonlineslots.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=canadianroofmasters.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=canadiansportsbetting.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=canbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cancasinos.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cance.spoiler.gid.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=candy2.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4230,8 +4229,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=carthagebet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=carthagebet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=carthagobet.tn comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cartoonpornpictures.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cartoonreality.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cartoonsinside.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=carymodels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4281,8 +4280,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casepariurilor.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casepariurionline.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=caserastube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casgirls.site comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cashalot.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casharcade.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cashbackbonus.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4332,8 +4331,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-apps.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-apps.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-astral.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-aus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-automaty-hry-zdarma.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-awards.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-azerbaijan.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4383,8 +4382,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-extra.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-fair.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-faqs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-forum.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-gagnant.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-gang.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-gossip.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4434,8 +4433,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-ohne-deutsche-lizenz.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-on-line-sicuri.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-on-line.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-on-net.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-online-australia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-online-canada.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-online-chile.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4485,8 +4484,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-solera.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-sonalia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-spelbolag.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-spille.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-super-cat.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-svenska-spelautomater.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino-th.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4536,8 +4535,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.flumecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.guide comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.guru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.help comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino.hk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4587,8 +4586,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino2020.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino21.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino21oyna.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino24.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino24.lv comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino24.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4638,8 +4637,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casino99.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoaams.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoaams.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoabralinternet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoaction.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoadrenaline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoadria.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4689,8 +4688,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobarcelona.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobaron.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobasen.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobeacon.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobeasts.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobeavers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobee.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4740,8 +4739,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonos.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonukset-fi.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonukset.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonus.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonus.ie comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonus.im comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4791,8 +4790,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonuslove.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusmarket-australia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusmarket.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusmaster.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusoffers.us comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusohneeinzahlung.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinobonusradar.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4842,8 +4841,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinochiefs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinochile.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinochile10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinochimp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinocity.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinocity.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinocitytimes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4893,8 +4892,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodelsur.vip comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodep.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodepositbonus365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodepositmobile.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodepositoptions.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodepositpal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinodepositreports.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4944,8 +4943,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlignelegal.ch comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlignepayant.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlignesuisse.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlinea.es comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlineahex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenlineanox.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoenracha-es.top comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -4995,8 +4994,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofakturabetalning.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofakturadirekt.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofakturan.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofans.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofans.me comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofantastik.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinofantastique.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5046,8 +5045,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogam.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogamble.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogambler.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogamblingstrategy.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogame.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogamescatalog.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogamesforreal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5097,8 +5096,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoguru-es.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoguru.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoguru.it comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoguru.lt comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogurues.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogurureview.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinogurus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5148,8 +5147,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointense.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointernational-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointernet.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointernet.de comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointernet.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinointorus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoireland.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5199,8 +5198,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolandia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolariviera.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolasku.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolasvegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolat.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolatino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinolaunchpad.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5250,8 +5249,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomamma.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomania.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomantraonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomanual.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomarienlyst.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomarket.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomarket.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5301,8 +5300,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi554.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi555.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi558.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi610.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi615.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi668.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomaxi680.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5352,8 +5351,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomonkey.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomoons.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomovilenlinea.com.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomucho.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomucho.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomuz.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinomystake.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5403,8 +5402,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoohnelizenzdeutschland.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoomega.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonline-365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonline-chile.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonline-gratis.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonline-italiani.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonline-offers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5454,8 +5453,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlinechile.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlinechile.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlinechile.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlinechile.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlinedeperu.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlineenchile.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoonlineespana.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5505,8 +5504,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopaynplay.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopayphone.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopearls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopedia.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopedia.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinopenge.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5556,8 +5555,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoquo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoraadgever.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoradar.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoraja.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinorange.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoranking.lv comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5607,8 +5606,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroo.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroom.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroyalclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroyaldragon.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroyale.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoroyale.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoruby.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5658,8 +5657,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos-world.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos-x.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos.cc comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5709,8 +5708,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosblockchain.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoscad.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoscafe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoscaliente.com.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoscanada.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoscanada.reviews comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoschool.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5760,8 +5759,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoserfahrungen.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoservice.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosesameouvretoi.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosexplorer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosfellow.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosforcanada.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosformoney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5811,8 +5810,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosites.me.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosites.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinositesaustralia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinositescanada.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinositeshelper.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinositesi.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinositesonline.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5862,8 +5861,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosnotongamstop.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosnow.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosochi.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosohnelizenz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosolera.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosolverde.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosonline-canada.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5913,8 +5912,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospielezen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospil.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospiller.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospillpanett.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospilnu.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinospilonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosport.club comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -5964,8 +5963,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosutansvensklicens.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosv.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosvergelijken.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosverified.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosverige.me comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosverige.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinosvirtuales.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6015,8 +6014,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotop10.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotop10.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotop10.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotop3.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotopdeals.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotopiccs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinotoplist.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6066,8 +6065,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinouttag.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinova.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoval.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinoval.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinovalet.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinovalley.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinovalley.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6117,8 +6116,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowired.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowis.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowithdrawal.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowithnokyc.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowizard.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowizard.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casinowow.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6168,8 +6167,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casivo.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casiwave.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casizoid.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=casollo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casombie.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=casombie1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6219,8 +6218,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinoro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinouri-online-romanesti.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinouri.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinouri.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinourionline.com.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinouromania.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cazinouromania.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6270,8 +6269,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn2.tiny-toons.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn2.trafficv2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn3.erectedcuteboys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn4.thumbs.motherlessmedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn4.trafficv2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn4.videos.motherlessmedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cdn4b.pics.gotporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6321,8 +6320,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=chameleon.fi comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=champagnespins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=champion.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=championbet.club comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=championbolivia.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=champions.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=championsbet.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6372,8 +6371,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=chilebets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=chilecasinoonline.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=chilecasinoonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=chillipartners.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=china-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=china.casinobillions.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=chip.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6423,8 +6422,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=classyslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=claudec.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cleanindex.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=clearerhearing.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cleopatra3.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cleopatracasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cleosviproom.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6474,8 +6473,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cludplayercampaign.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cm-1xbet.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cm1xbet.mobi comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cm1xbet.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cmsstars.al comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cn71436.tmweb.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cndb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6525,8 +6524,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=coinfalls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=coingambling.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=coingorilla.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=coinkings.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=coinkings.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=coinplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=coinpoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6576,8 +6575,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=completelycrazy.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=computers-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=concellodeortiguera.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=condenadosasalvarvidas.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=confetticasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=confiavel.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=confutation.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6627,8 +6626,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cotobaco.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cottageua.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=countingedge.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=covers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cowsino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cozino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cozino.es comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6678,8 +6677,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=creamy-boys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=creatives.livejasmin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=creer.shop comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cresuscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cricket-betting.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cricketbetindia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cricketbetting.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6729,8 +6728,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasino-usa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasinoclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasinofinder.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasinos-au.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cryptocasinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6780,8 +6779,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=csexo.sexy.easyencuentros.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgame.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgo500.io comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgoatse.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgobettings.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgobook.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=csgocaseopening.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6831,8 +6830,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutemodel.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutemodels.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutepink.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutestars.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutestars.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cutesweeties.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=cuteteen.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6882,8 +6881,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dadosbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=daduploads.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dafa888.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dafabet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dafatiyu.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dagensbastaspel.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dagogame.it comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6933,8 +6932,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dasistcasino10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dasistcasino9.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=data2.whicdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=datawallet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=datdrop.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=datesportscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=datslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -6984,8 +6983,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=deluxecasinobonus.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=deluxecasinobonus.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=demobet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=demoslot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=denderacasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=denmark-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=depic.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7035,8 +7034,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=diaboliquegame.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=diainternetsegura.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=diamond-tgp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=diamond7casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=diamondclub-vip.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=diamondclubvip.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=diamondreels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7086,8 +7085,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=directoriodecasinosonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=directoryonlinepoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dirtyemos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dirtyteenytube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=disco-mkt.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=discountcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=discountcasino116.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7137,8 +7136,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=donno.icu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=donpaja.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=donscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=doradobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dorasite.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dota2-bets.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=doteens.gdn comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7188,8 +7187,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dreamscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dreamvegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=dreamvegascasino.click comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dreamz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=drf.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=drift.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=driftcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7239,8 +7238,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dutchgamblers.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=duxcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=duxcasino1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dvdtox.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=dvtd.hucufob.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=e-cuties.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=e-cuties.ws comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7290,8 +7289,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ecuapuestas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eddyvegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=edgeless.io comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=educapoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=eeb.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eee.pic16.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eee.yagde.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7341,8 +7340,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=elapostador.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=elba.modelsartcenter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=elba.topmodelsart.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=elbaccarat.es comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=elcasinocaribe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=elcasinoenlinea.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=elcasinointernet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7392,8 +7391,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=empirepoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=empirestakes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=emprendeporelmundo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=emucasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=en-betting.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=en.av4.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=en.ela.mobi comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7443,8 +7442,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=es-apuestas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=es-betwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=es-casinority.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=es-nationalcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=es-sportbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=es.7sultanscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=es.888casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7494,8 +7493,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=esports.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportsbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportsbetting.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportsbettingsite.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportsbettingtop.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportsimpulse.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=esportwetten.de comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7545,8 +7544,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurobetcasinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurobetscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurobettingsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurobsit.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurocasinobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurocasinosites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=eurokingclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7596,8 +7595,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot4.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot5.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot6.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot7.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot8.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslot9.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=euslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7647,8 +7646,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=exclusiveloader.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=exclusivepromotion.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=exclusivesecurity.pl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=exclusiveteenpictures.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=exgfs.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=exgirlsx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=exidium.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7698,8 +7697,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fablecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fabolousbingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fabulousbingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=facebook-casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=facecunt.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fair-online-gambling.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fairgocasino-au.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7749,8 +7748,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=farmsbet.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=farrah.webegirls.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fartoona.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fashion-models-top.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fashion-models.bz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fashionmodelclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fast.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7800,8 +7799,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.hu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.it comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=feelinglucky.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fempanxingacasa.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7851,8 +7850,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=findmyukcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=findnewcasinos.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=findsexyteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=findthecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fineonlinecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fineporntube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=finestonlinecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7902,8 +7901,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.pl comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=flashscore.si comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -7953,8 +7952,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=folom.nerdpol.ovh comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fonecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fonslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=football-data.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=football.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=footballgroundguide.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=footballpink.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8004,8 +8003,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunecoins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunefiesta.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunefrenzy.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunejack.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunelegends.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunelounge.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fortunelounge.info comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8055,8 +8054,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=francaisonlinecasinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=france-pari.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=francecasino5.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=frankcasin0.agency comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=frankcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=frankcasino.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=frankclubcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8106,8 +8105,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebetsinfo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebetting365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebettingreviews.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebettor.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebieslots.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freebirthdatelottery.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8157,8 +8156,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslots.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslots.theborgata.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslots4u.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslots4u.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslots99.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freeslotshub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespin-casino.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8208,8 +8207,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinsonslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinspromo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinsutaninsattning.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinsworld.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespinx.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=freespiritbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8259,8 +8258,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fruitycasa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fruitycasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fruityking.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fruityslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=fruityvegas.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=frumzi1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fs1.directupload.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8310,8 +8309,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=funnystars.me comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=funnystars.to comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=funnyx.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=funonlineslots.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=funytime.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=furryhentaiporn.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=fusballwetten.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8361,8 +8360,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.drawn-sex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.drillherbutt.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.exploitedcollegegirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.gay-comics.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.girlsgotcream.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.grooby.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=galleries.incestcash.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8412,8 +8411,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gals.teenswantblack.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gals.xcoreclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambeta10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambia-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambl.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambla.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamble-illinois.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8463,8 +8462,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambletroll.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblexpert.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblezen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambling-apps.in comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambling-code.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambling-code.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gambling-deals.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8514,8 +8513,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingmentor.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingmetropolis.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingnews.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingngo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingonline.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamblingonline.net.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8565,8 +8564,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=games.monstercasino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamesandcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamesbras.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamescasino.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gameshout.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamesmoney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gamesport321.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8616,8 +8615,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gate777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gates-of-olympus.app comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gatesofolympus-pragmatic.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gatesofolympus2024.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gaybase.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gaygiraffe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gays.allboyshere.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8667,8 +8666,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=germany-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gesellschaftswetten.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gesture.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=getb8.us comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=getcasinobonus.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=getfires.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=getfreeslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8718,8 +8717,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=giocagile.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=giochi24.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=giochicasinointernet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=giochidislots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=giochitelematici.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gioco-casinoonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gioco-legale-italia.it comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8769,8 +8768,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=glorycasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=glossybingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=glowingcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=glucksspiele.ch comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gluecksspielinformationen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gma-crypto.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gmblrs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8820,8 +8819,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gol724.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gold-chip.at comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gold-pay-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=goldantiguacasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=golden-pokies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=golden90.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=goldenaxecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8871,8 +8870,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=goldstreams.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=goldwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=golegol185.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=golegol188.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=golegol190.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=golegol193.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=golegol194.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8922,8 +8921,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=goodwincasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=googirls.110mb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=goomax.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=goonersguide.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gopics.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=goplay.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=goprocasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -8973,8 +8972,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=grandwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=grandwin4.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=grandx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=granger88.bond comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gratis-casinospel.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gratis-spinn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gratisautomatenspiele.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9024,8 +9023,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gry-kasyna.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gs128.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gslot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gslot1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=gslot2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gsn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=gtally.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9075,8 +9074,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=h24bet.live comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=h2club.com.br comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=h3betslotgame.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ha.usa-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=habwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=haha1314.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=haizea.topmodelsart.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9126,8 +9125,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hdsportbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hdvideoxxx.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hdxxnxx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=headlinecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=heapsofwins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=heartbingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=heartofcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9177,8 +9176,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis675.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis691.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis695.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis700.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis718.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis735.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hepsibahis773.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9228,8 +9227,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=highstakesdb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hightechgambling.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=highwaycasino1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=highwaycasinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=highxxx.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hilarionbet225.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hilena.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9279,8 +9278,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=holymolycasinosusa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=homearchive.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=homefantasies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=homemade-voyeur.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=homemadesexteens.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=homeperversionporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=homepics.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9330,8 +9329,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hot18mov.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hot18teens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hot7casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hot88.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hotashell.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hotbet.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hotbet777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9381,8 +9380,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=howtobetusa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=howtocasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hpibet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hq-nn-pics.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=hq-teens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hqboys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=hqnnpics.com.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9432,8 +9431,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=i-love-bingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i-online-casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i-teenies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=i.adorevids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=i.aegke.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i.allfuck.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i.im.ge comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9483,8 +9482,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=i87.fastpic.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i89.fastpic.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=i92.fastpic.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=iapuestasdeportivas.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ib8.asia comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ib8.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ib8sgd.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9534,8 +9533,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=idrgratis.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=idsgn.online comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ifantasybet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ifortuna.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ifortuna.sk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ig.usa-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=igamblingbarcelona.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9585,8 +9584,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ildado.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ilgiocatoreonline.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ilinks.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=illegal-incest.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=illegalcomics.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=illinoisbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=illinoislottery.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9636,8 +9635,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.hdpornplace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.jpg4.club comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.jpg4.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.jpg4.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.jpg4.space comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.kavamediagroup.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img.littleshoolgirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9687,8 +9686,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100-974.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100213.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100490.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100645.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100648.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img100732.xvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9738,8 +9737,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img7.uploadhouse.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img777.yt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img8.ph.126.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img8.rajce.idnes.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=img8.uploadhouse.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img80.imgspice.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=img86.imageshack.us comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9789,8 +9788,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=incibahis22.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=incredibleporn.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=incrediblespins.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=indecent-dreams-xxx.top comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=independent.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=indextops.ml comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=india-1xbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9840,8 +9839,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=innocent.nonudeplace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=innocentcute.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=innocentvirgins.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=innteen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=inpoker.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=insaneday.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=insidebitcoins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9891,8 +9890,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=intersportwetten.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=intertops.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=intobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=intralot.it comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=invassat.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=io.ua comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=io0061i1li1l1i00oobb6bo0.animalsex.cc comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9942,8 +9941,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ist2-2.filesor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ist3-7.filesor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ist7-2.filesor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=it-scommesse.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=it1.imgtown.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=it1s.imgtown.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=it4.imgtown.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -9993,8 +9992,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpot247.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpot6000.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpotbonus.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpotcapital.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpotcash.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpotcasinocanada.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jackpotcasinos.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10044,8 +10043,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=janet.topmodelsart.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=japan.casinobillions.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=japancasinos.mobi comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=japancasinospot.jp comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=japanesecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=japanesecasinoreview.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=japanesecasinosnews.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10095,8 +10094,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis144.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis145.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis147.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis148.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis149.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis152.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jetbahis156.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10146,8 +10145,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jeuxdcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jeuxdecartes.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jeuxdecasinoenligne.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jeuxenlignefrancais.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jeuxgratuits.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jfox365.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jgef.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10197,8 +10196,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jokerino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jokerjewels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jokerslots.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jokerstudio.space comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jokker.ee comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=joli-roger.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jollybet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10248,8 +10247,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=judgecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=judy.artmodelscenter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=juega123.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=juegacasinoonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=juegaenlinea.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=juegaenlinea.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=juegakeno.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10299,8 +10298,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugalo.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugalodos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugandovoy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugar-casino-online.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugar-powerball.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugar-unique.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jugar.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10350,8 +10349,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=juwa777.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jvspin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=jvspin283877.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=k210.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=k6m6btwh56hgwsatubotova2k4zvltm4nblxone5blsh6htu3pugicid.onion.ly comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=k8.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=k8.io comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10401,8 +10400,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasiinoguru.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasiinoonline.ee comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasino-bonus.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasino-erbjudande.se comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasino-online-sk.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasino-online.sk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasino123.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10452,8 +10451,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasinot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasinot.fi comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasinot.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasinot2023.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasinotopplista.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kassu.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kasynainternetowe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10503,8 +10502,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kazinonamas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kazinopaixnidia.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kazinopaixnidia24.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kazinotop.lv comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kazinotops.lv comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kb99bet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kds-agencey.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10554,8 +10553,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingdeportes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingdomcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kinggame.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingjackcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingloto.com.ua comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingmaker2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kingneptunescasino.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10605,8 +10604,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet251.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet253.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet254.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet255.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet259.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet262.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kolaybet264.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10656,8 +10655,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=kr.mytubes.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=krakenbet.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kralbet609.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=krfactory.co comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=krfactorystore.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kriptopolis.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=kripty.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10707,8 +10706,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladyhammercasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladyhammercasino2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladylindacasino.co comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladylindaslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladylovebingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladyluck.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ladylucks.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10758,8 +10757,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lasttop.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lasvegasenvivo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lasvegasusa.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=latecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=latestbettingoffers.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=latestbingobonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=latestcasinobonuses.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10809,8 +10808,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.es comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=legalbet.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10860,8 +10859,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lemoncasino3.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lempikasinot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lena.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lenagallery.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lenatoplist.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=leon.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=leon.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10911,8 +10910,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=likebets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=likenn.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=likeyoung.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lil-amateurs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lil-for-you.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lila.topmodelsart.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lildaveslife.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -10962,8 +10961,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lite-1x513392.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lite-1x605138.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lite-1x923400.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lite.jpg4.net.forsearch.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lite.soccabet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=litecoincasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=litecoingamblingsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11013,8 +11012,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino-kr.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino-vn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino.de comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino.ie comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasino.land comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11064,8 +11063,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinoreports.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinos.asia comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinosites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinoslots.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinosonline.org.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=livecasinospill.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11115,8 +11114,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lodigamer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lodraw.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=logincasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=logincasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lojrafationline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=loki.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lokicasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11166,8 +11165,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lollipoplane.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolly.artmodelingstudios.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolnudegirl.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolo.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolovely.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolpoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lolslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11217,8 +11216,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lotteryglobal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lotto.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lotto24.de comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lotto247.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lottobonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lottoday.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lottofun.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11268,8 +11267,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lpxmcp.soup.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ls-collection.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ls-exlusive.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ls-models.click comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ls-pics.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ls16.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lsbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11319,8 +11318,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckme.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckofthespin.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lucksters.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lucky-31.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lucky-7-bonus.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lucky-7-bonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11370,8 +11369,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckymeslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckymikicasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckymobilecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckymov.clan.su comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckyniki.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckynova.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=luckynugget-casino.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11421,8 +11420,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=luxurycasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lv.spinpalace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lv.usa-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lvbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=lvbet.pl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lvol.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=lyckospel.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11472,8 +11471,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=magazines-fashion.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=magic-preteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=magicalspin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=magicalvegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=magicbet777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=magicboxcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=magicfreevideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11523,8 +11522,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mamabonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mamasijaya.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mamutbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=manachan.legalmodolls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mancalagaming.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mandarinpalace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=maneki-c.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11574,8 +11573,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=marina2.firstmo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=marina7.feburo.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=marinadelsol.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mariobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mariobet233.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mariobet234.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mariobet235.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11625,8 +11624,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=matoto.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=matur.webzem.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=matureclub.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=maxbet.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=maxbet.rs comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=maxbets1ots.empresa comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=maxcasinolive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11676,8 +11675,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=media0.webgarden.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mediabet.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=medico.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=meexbet.cc comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=meexbet.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=meexbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=meexbet.fyi comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11727,8 +11726,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=megawayscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=megawaysslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=meilleurcasinoenlignebelge.be comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=meinonlinecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mejor-bingo-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mejorbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mejorbingoonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11778,8 +11777,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=melhorsitedeapostas.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=melhorsitedeapostas.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=meli.swittydolls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=melissa.legalmodolls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=melissa.little-agency.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mem9gag.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=menass.org comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11829,8 +11828,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=miamicasinoclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=miamiclubcasino.im comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=miamidice.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=miamijackpots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mibets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=micasa724.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=micasabet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11880,8 +11879,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=milparleys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mindepcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mindepositcasinosca.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=minggu111.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=minhateca.com.br comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mini.free-teen-pussy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=minibb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11931,8 +11930,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mixed.nonudeplace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mixedvids.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mjsanaokulu.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mjsports.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mlbbaseballbetting.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mlottbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mn.usa-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -11982,8 +11981,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasino.ph comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinoaction.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinocanada.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinoclud.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinodb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinofreebonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mobilecasinofun.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12033,8 +12032,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet234.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet238.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet245.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet246.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet248.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet249.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=modabet251.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12084,8 +12083,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mondositiscommesse.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mondosportbet2.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=monetosbetting.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=money-to-win.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=moneygaming.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=moneyonplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=moneypokersites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12135,8 +12134,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mother.taboo.cc comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=motilonsports.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=motilonsports.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mountairycasino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mov.ftvcash.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=moveyourmoney.org.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=movie1820.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12186,8 +12185,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrparley.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrq.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrrex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrslot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrsloty.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mrsloty3.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12237,8 +12236,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mustangmoney.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=muychicas.com.ar comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mvideoslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mvpsport-bets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mx-apuestas.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mxlobo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=my-fruits.info comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12288,8 +12287,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=myempire1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=myexbaby.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=myfilipinagirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=myfirstteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=myfirstteens.tk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=myforum.tech comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mygdm.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12339,8 +12338,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mywettanbieter.at comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mywettanbieter.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=mywettbonus.at comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mywettbonus.de comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=mywin24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=myyoungbabe.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=myyoungsex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12390,8 +12389,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nanogames.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=naomi.kvetinas.bz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=naomi3.kvetinas.bz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=naonlinedee.qipim.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=narka.migel.club comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=narrow.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=narta.com.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12441,8 +12440,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=neosbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=neospin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nerdly.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nerdsofgambling.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nerobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netbet.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12492,8 +12491,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasino-bonus.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasino24.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasino247.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasinohex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasinosuomi.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=netticasinot.me comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12543,8 +12542,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=new-onlinecasinos.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=new-teensex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=new-usa-online-casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=new.18onlygirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=new.beataporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=new.nonude-place.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=new.nonudeplace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12594,8 +12593,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.bg comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.co.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newcasinos.es comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12645,8 +12644,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newonlinepoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newpornsite.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newsbtc.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newsets.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=newslotgames.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newslotsbonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=newslotsite.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12696,8 +12695,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nieuwecasinos-be.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nieuwecasinos-nl.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=niger-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nigeria-bettingoffersfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nigeria-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nigeria.casinobillions.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nightrush.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12747,8 +12746,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-models.review comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-pics.click comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-pics11.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-show-pics.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-stars.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-teen.thumblogger.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nn-top.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12798,8 +12797,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=noaccountcasinoexpert.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=noaccountcasinos.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=noblebet.pl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=noblecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nobonuscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nocrossdomain.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodeposit-casinobonus.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12849,8 +12848,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositr.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositrealmoney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositrewards.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositslots.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositworld.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nodepositz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12900,8 +12899,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude-models-school.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude-stars.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude-vip.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude.me comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude.name comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonude2021.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nonudegirl.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -12951,8 +12950,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=norgesnettcasino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=norgevegas.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=noricvariccasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=norppakasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=norrviken.fi comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=norsebet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=norsk-bet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13002,8 +13001,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nouveauxcasinos-ch.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=novajackpot2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=novibet.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=novocasinos.de comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=novosdk.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nowagering.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nowageringcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13053,8 +13052,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos-mx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos-nz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos-tw.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos-ve.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos.co.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nuevoscasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nufnuf.ko3.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13104,8 +13103,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nymphets-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nymphetsfirsttimesex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nymphs.allmaxwells.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nymphs.legalmodolls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=nyspins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nysportsday.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=nytdansk.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13155,8 +13154,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsjet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsmaker.ag comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsmatcher.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsmath.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsnet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddsonline.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=oddspedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13206,8 +13205,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ojogadorbrasileiro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ok888bet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=okbetsports.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=okebet.com.ph comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=olabahis45.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=olabet.co.mz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=olabet77.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13257,8 +13256,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis145.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis147.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis150.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis151.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis155.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis157.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onbahis158.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13308,8 +13307,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-ratgeber.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-site.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-slots.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-spel.se comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-spielautomaten.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino-tips.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-casino.ar comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13359,8 +13358,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-ruleta.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-slot.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-slots-party.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-slots-spielen.de comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-slots.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-topcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=online-vegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13410,8 +13409,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlineblackjackrealmoney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlineblackjacktourney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlineblackjacktourneys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinebookmakerreview.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecaliforniacasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino-24.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino-australia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13461,8 +13460,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.my comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.plus comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.re comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasino.rs comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13512,8 +13511,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinodanske.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinodepositbonus.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinodeposits.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinodollar.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinodubai.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoechtgeld.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoechtgeld.info comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13563,8 +13562,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinokiwi.co.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinokix.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinokle.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinokoning.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoland.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinolar219.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinolatino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13614,8 +13613,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.co.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.com.ar comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.com.py comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.com.ve comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinorank.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13665,8 +13664,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.com.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.com.ve comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.com.vn comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.fi comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreports.ge comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13716,8 +13715,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreviewer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoreviewz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoroxypalace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoroyalclub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinos-australia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinos-ca.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinos-ca.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13767,8 +13766,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosenperu.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosforusaplayers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosfrancais.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosg.sg comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoshare.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosite.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinosites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13818,8 +13817,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinowebsite.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinowebsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinowelt.de comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinowereld.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoxl.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoz.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinecasinoza.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13869,8 +13868,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepoker.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinepokeramerica.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13920,8 +13919,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlinewettentest.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlynn.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlynngirls.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlysurebet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=onlyteenclips.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onnekaskasinot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=onora.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -13971,8 +13970,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=optimumpersonalcare.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=orangteens.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=orbit.000a.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ordb.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=oreels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=orientxpresscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=orisbet174.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14022,8 +14021,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=palacebingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=palaceofchance.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paldo.vip comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=palladiumgames.be comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=palmerbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=palmsbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=palmslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14073,8 +14072,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=parimatch.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=parimkasiino.ee comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paripedia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=paripesa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=paripesa.ng comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paripesa.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paris-sportifs-afrique.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14124,8 +14123,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=passive.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pastebin.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paston.es comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pathosonline.it comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=patriciapolitzerconstituyente.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paula.feburo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=paula.feburo.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14175,8 +14174,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=peppercasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=perabet127.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=perabet135.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=perezzz.info comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=perfectkit.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=perfectmoneygames.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=periscope.forum.cool comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14226,8 +14225,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=picantesports.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=picbazaar.pk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pickadvisor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pickswise.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pickteen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pickwin.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=picmodel.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14277,8 +14276,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up.online comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up.world comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up008.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pin-up1.in comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14328,8 +14327,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinup.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupbet-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupbet-sportsbook.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupbet.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupbet.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupbetting.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pinupcasino-uz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14379,8 +14378,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetfruity.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetofbets.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetofbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetsex.club comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetsportbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetwin365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=planetwin365.es comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14430,8 +14429,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playaz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbestcasino.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbet.co.za comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbet.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbetano.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playbetr.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14481,8 +14480,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playgrand.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playgrandcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playhubcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playillinois.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playin.ee comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playincasino.online comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14532,8 +14531,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playregal-act.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playright.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playroulette.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playsafecasino.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=playsafecl.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playsafecz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=playsafekasyno.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14583,8 +14582,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pm.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pmbet.co.tz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pmcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pmcasinowin.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pmu.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pmubrasil.com.br comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pnr-haut-allier.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14634,8 +14633,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokercasinobets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerchile.cl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokercity.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerconvent.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokercs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerdangal.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerdao.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14685,8 +14684,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerpt.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerrankings.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerrealmoney.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerreviewusa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokersajter.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokerscout.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokersemdeposito.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14736,8 +14735,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokie-spins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokieguide.nz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokieplace.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokieplace2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokieplay.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokies.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pokies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14787,8 +14786,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornateen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornboard.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornboard.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornbox.life comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=porncollection.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornfile.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=pornfreeworld.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14838,8 +14837,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=portugalcasino.pt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=posh-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=poshbingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=posido.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=posido158.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=post.girlsinmanga.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=postim.in comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14889,8 +14888,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=preteenposing.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=preteensnonenude.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=preteenstop.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=prettyamateursgirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=prettymix.ml comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=prettyslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=prettyteenies.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14940,8 +14939,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=progressplaycasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=progressplayltd.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=proindiancasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=promo-codes.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=promo.eronata.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=promo.olybet.lt comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=promo.premiumviplosite.website comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -14991,8 +14990,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=psewin.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=psewin.sh comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=psewin.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=psewin.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=psewin1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=psk.hr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=psy-city.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15042,8 +15041,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=qqscore88.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=qu.ax comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=qualitycasino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=qualitycasinos.top comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=quarter.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=quarterpoker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=quartzcasino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15093,8 +15092,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=radissonbet86.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ragingbullcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ragingbullslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ragingbullslotscampaign.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=raha-pelit.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rahapelit-netissa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rajaeb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15144,8 +15143,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=realasianteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=realcashbonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=realcasinos.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=realcasinoscanada.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=realcasinovegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=realcumswallow.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=realgamblingguy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15195,8 +15194,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=redcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=redcasinoplanet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=redcherry.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=reddice.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=reddog.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=reddogcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=reddogcasino.info comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15246,8 +15245,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=registrarse.com.ar comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=registrarse.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=registrate.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=registrofortubet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=reigarmema.ga comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=reizbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rekadecasinon.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15297,8 +15296,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet40.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet44.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet51.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet53.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet57.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet60.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rexbet67.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15348,8 +15347,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rivalgamingcasinobonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rivalry.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=riverbelle.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=riverbelle.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=riverbelle.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=riverbellecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rivernilecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15399,8 +15398,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roobet.fun comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roobet.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roobet.party comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roobet.world comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roobetcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roomcam.icu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rorisenka.ddo.jp comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15450,8 +15449,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77namibia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77newzealand.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77schweiz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77seychelles.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77sthelena.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77trinidad.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=roulette77turkmenistan.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15501,8 +15500,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=royal888casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=royal888casino.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=royal888sg.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=royalacecampaign.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=royalacecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=royalacescasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=royalbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15552,8 +15551,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rulet77bosnia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-casino.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-casino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-en-ligne.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-en-vivo.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-gratis.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ruleta-gratis.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15603,8 +15602,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=run4win.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=runbet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=runcasinos.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=runningpetra.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=rus-sex-girls.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rushbets.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=rushbets.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15654,8 +15653,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=s8d5.turboimg.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=s9.dd.icdn.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=saavdaz.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=saberapostar.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sacred6.tk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=safe-online-casino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=safebettingsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15705,8 +15704,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=savaronacasino5.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=savaronacasino6.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=savaronacasino7.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=savaronacasino8.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=savaronacasino9.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=savonix.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=saydamplanet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15756,8 +15755,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse-live.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse-mondiali-2018.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse.commentierecensioni.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse.io comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesse24.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=scommesseitalia.it comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15807,8 +15806,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=serviapuestas.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=servitube.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=seven.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=seven.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sevencasino.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sevenheavencasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sevenjackpots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15858,8 +15857,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sghuatchai.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sgirls.hotdolls.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sgonline.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sgonlinecasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sh.uploads.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=shadowbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=shadowspleasure.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15909,8 +15908,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sikrebettingsider.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=silentbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=silkbingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=silveredgecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=silverfoxcasino.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=silvergallery.su comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=silveroakcampaigns.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -15960,8 +15959,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sistersitesindex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sitandgoplanet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=site2casino.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sitedeapostas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sitedeapostasonline.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sitedeapostasonline.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=siteler.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16011,8 +16010,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sll12.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sll365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slootz.io comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slot-mania.it comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slot-spiele.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slot-vegas.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16062,8 +16061,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0001.space comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0002.space comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0003.space comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0004.space comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0005.space comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotman0006.space comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16113,8 +16112,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots.org.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots.tropicanalasvegascasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots2018.online comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots2play.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots33.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slots33play.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16164,8 +16163,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsgardenmail.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsgeek.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsgold.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsguidance.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsguy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotshack.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotshangout.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16215,8 +16214,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotspro.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotspro.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsquad.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsrank-cn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsrank.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotsroom.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slotssmachines.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16266,8 +16265,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway11.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway12.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway13.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway16.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=slottyway2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16317,8 +16316,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartassgamblers.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartbettingguide.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartbonus.at comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartcasinoguide.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=smartcasinoranking.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=smarterbettor.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16368,8 +16367,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=softswiss-casino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sogood.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sokabet.co.tz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sol.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sol36.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sol86.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=solbet.pe comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16419,8 +16418,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spacewincasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spacewins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spadercasino.se comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spain-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spanish.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spanishbonus.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sparkleslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16470,8 +16469,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spicyspins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spielautomatcasinos.at comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spielen-slots.de comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spielenohnelimit.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spielerkartell.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spieletester.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spielhalle.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16521,8 +16520,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinbetter.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinbetter2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinbigwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinbonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spincasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spincasino.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spincasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16572,8 +16571,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinspace.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinsports.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinsroyale.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinstation.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinsvilla.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinsvilla.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=spinsvip.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16623,8 +16622,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportclan.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportcol365.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportdrycker.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportempire.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sporteria.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportfogadas-magyarorszagon.hu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportfogadas-tippmix.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16674,8 +16673,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting.com.au comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting.legal comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting.net.in comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting18.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting24.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportsbetting777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16725,8 +16724,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-deutschland.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-helden.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-leicht-gemacht.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-magazin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-system.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sportwetten-test.org comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16776,8 +16775,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sssyoung.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stadionfans.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stake-casino-bonus.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=stake.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=stake7.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stakecasino.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stakehub.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16827,8 +16826,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=static5.xxxsun.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=statymai.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stavka.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=staycasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=stayluckycasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=steinertriples-sport.fr comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=stelario.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16878,8 +16877,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=successonlinecasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sudabet.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=suedwind-entwicklungspolitik.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=suertecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=suertesiete.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=suertia.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sugar.artmodelingstudios.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16929,8 +16928,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbetin256.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbetin653.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbetin883.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbets.do comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbettingsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbigwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superbigwin.nu comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -16980,8 +16979,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superscore.online comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superseven.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superslots.ag comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superslots.link comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=superslotspin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=supersmask.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=superspillemaskiner.dk comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17031,8 +17030,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=surga33-login1.buzz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sushicasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sv18.mypornsnap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sv2.mypornwap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sv20.hifisnap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sv22.snap69.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sv24.hifisnap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17082,8 +17081,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=svijetkladjenja.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=svindel.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=swazibet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=swcpoker.club comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=swcpoker.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=swedebox.ml comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=swedencasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17133,8 +17132,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=sxteengirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sxulwkz.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=sxvegas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=syellen.org comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=syndicate.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=syndicate2.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=synergy-casino-es.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17184,8 +17183,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tarafbet325.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=targetslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=taspix.shop comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tastybingo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tastygames.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tasutakasiino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tattsbet.ubet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17235,8 +17234,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen.littleporn.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen.models18.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen18only.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen2257.site comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen2view.web.fc2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen3x.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teen81.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17286,8 +17285,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengames.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengirl.click comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengirl.top comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengirlfriend.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengirlsarchive.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teengirlsnaked.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teenhardcorevids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17337,8 +17336,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensfever.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensfilm.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensforcatch.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensforced.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensforfree.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teensforfree.space comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=teenshotgirls.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17388,8 +17387,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=termitxxx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=terrordasbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=terrybet.it comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=testcasinoenligne.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=testcasinos.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=testspielautomaten.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=texasholdemonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17439,8 +17438,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinocity.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinocity.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinocity.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinocitynz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinodb.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinoenquirer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thecasinoguide.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17490,8 +17489,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thepostme.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thepunterspage.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=therouletteplayer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=therubybet.top comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thesame.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thesetpieces.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thesindiecate.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17541,8 +17540,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbnails116.imagebam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbnails117.imagebam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbs.21pron.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbs.brandytube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbs.clubofporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbs.imagebam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=thumbs.lusthero.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17592,8 +17591,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinydoll.icu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinyjugs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinypix.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinypussy.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinyrussianteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinyteens.xyz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tinytube.tyabo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17643,8 +17642,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn1.suitemovies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn1.tubepreview.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn2.suitemovies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn3.eteenpost.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn3.pictureview.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn3.suitemovies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tn3.tubepreview.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17694,8 +17693,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.glenda.yamodamo.ws comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.hot-nymphets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.kamilla-model.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.kamilla.yamodamo.ws comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.little-princesses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.modlinks.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top.nonude-free-galleries.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17745,8 +17744,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top1bets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top50-casino.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top5arabcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top5casinos.at comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=top5casinosites.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top5onlinecasino.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=top69casinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17796,8 +17795,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinoonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinoranking.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinos.bg comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinos.mx comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinos.org.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topcasinosearch.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17847,8 +17846,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinebookies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasino.be comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasino.com.ph comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasino.my comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasinoaustralia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasinobonus.de comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toponlinecasinomy.co comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17898,8 +17897,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=topteenvids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toptenpokersites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=toptenpokersites.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=toptiercasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=toptopcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topuscasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=topwincasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -17949,8 +17948,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperras-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperras-online.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperras24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperras777.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperrasespanolas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperrasweb.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tragaperrosespana.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18000,8 +17999,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=truefreepornvideos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=truegame.io comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=truelivecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=truenorthcasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=trueteen.club comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=truffa.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=trustdice.win comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18051,8 +18050,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet265.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet267.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet268.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet269.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet270.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet271.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=tumbet277.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18102,8 +18101,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=twinkleslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=twinksgayhotters.tumblr.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=twinktube.pro comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=twinspin.com.ua comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=twinspin.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=twolittlefleas.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=twoupcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18153,8 +18152,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukonlinecasinoslist.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukoonlinecasino.us comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukrainian-kitties.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukrcasino.kiev.ua comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukslotgames.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ukslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=uktoponlinecasinos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18204,8 +18203,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=ultratecheconnect.in comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=ummtube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=uncensoredcartoons.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=unclevids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=unctadcompal.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=undergrowthgames.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=undertheskirt.top comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18255,8 +18254,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=up3.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=up4.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=up5.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=up6.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=up7.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=up9.xhcdn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=upgirls.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18306,8 +18305,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=usenetmodels.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=usenetmodelsindex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=usenetmodelsindex.gr comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=userimage2.360doc.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=usgamblers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=usgambling.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=usgamblingsites.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18357,8 +18356,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vanguardscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vaobongnhanh.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vapaatkasinot.org comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=varldenskasinon.club comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vasacasino.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vasagaming.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vasycasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18408,8 +18407,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vedonlyontiyhtiot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegadream.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegas-365.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegas-365.vip comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegas-grand13.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegas-grand15.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegas-grand16.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18459,8 +18458,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegaswinner.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vegazcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=veikkaajat.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=veikkaus.fi comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=velobet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=venetianbet.it comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=venezuela-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18510,8 +18509,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=video1.school-models.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=video1.show-star.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=video2.show-star.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=videononude.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=videoonline.omiki.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=videoonline.tanmono.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=videoplayer.dotera.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18561,8 +18560,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vipbabe.forumatic.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vipbahissiteleri.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vipcasino.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vipcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vipcasinos10.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=viperslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=viphentai.co comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18612,8 +18611,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vladcazino.ro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vlk-casino-online.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vm3.show-star.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vm5.show-star.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vm6.show-star.biz comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vodka.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=voetbal247.nl comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18663,8 +18662,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vulkanvegas87.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vwin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vyhraj.cz comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vyrex.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=vyrex7.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=vyullkanz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=w.onlinecasino.co.rs comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18714,8 +18713,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=webbyslot1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=webbyslot11.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=webbyslot2.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=webcam-teen.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=webcam-video.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=webcam-whoring.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=webcam.dxpac.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18765,8 +18764,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettanbieter.online comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettanbieter.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettanbieterbonus.de comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettanbieteroesterreich.at comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettanbieterschweiz.ch comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettangebote.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wettbasis.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18816,8 +18815,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=whitelionbets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=whitelotuscasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=whiteteensblackcocks.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wholikes.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=whoscored.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wickedbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wickedjackpots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18867,8 +18866,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=willyporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=win-casino.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=win.city comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=win.expert comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=win2day.at comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=win7bitcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winadaycasino.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18918,8 +18917,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winnerreport.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winners.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winners.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winnersgoldenbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winnersmagic.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winnersport.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winnerstrategy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -18969,8 +18968,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuniquecasino-table.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuniquecasino-yes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuno11.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuno11.live comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuno22.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuno22.live comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=winuno33.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19020,8 +19019,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wizardslots.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wizbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wk132.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wns9958.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wolf.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wolfycasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wolfycasino4.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19071,8 +19070,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wowbonuses.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wplay1.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wplays.co comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wplays.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=wsbetting.co.mw comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wsgargentina2022.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=wsh24.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19122,8 +19121,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.5up.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.6vids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.7000videos.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.700xxx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.777xporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.7dog.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.8teenxxx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19173,8 +19172,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.asiangirlsmovie.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.asiansgfs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.averotica.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.aypillin.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.babesbank.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.babez.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.babosas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19224,8 +19223,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.brandigirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.brandytube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.bravoerotica.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.bravoporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.bravoteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.bravotube.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.bravovids.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19275,8 +19274,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.colegialasdecasa.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.colegialasdesvirgadas.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.colegialita.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.collegefuckfest.site comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.colombiasexxx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.columbian-boys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.conejopervertido.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19326,8 +19325,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.drawn-sex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.dream-teenagers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.dreammovies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.drochen.site comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.drtuber.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.dustyporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.dyaakonik.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19377,8 +19376,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.follandovirgenes.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.fotosamateur.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.fpixx.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.frank-teens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.free-boys-pics.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.free-sex-sexy-gallery.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.free-young-galleries.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19428,8 +19427,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.gaypaycheck.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.gaypornix.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.gayxperience.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.genericdreamers.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.gentle-down.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.gentlelips.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.geranvyuv.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19479,8 +19478,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hdcp.tkthumbsthumb7.jpg comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hdvtubeporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hegre-art.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.heidymodel.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hentai-toonz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hentaiboys.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.hentaicart.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19530,8 +19529,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.idealpussy.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.iliketubes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.illbruck.info comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.imagebam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.imagefap.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.imagefest.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.imageflea.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19581,8 +19580,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.kacey18.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.karisweets.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.kaynti.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.kchan.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.keezmovies.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.ketedachm.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.kids-bikini.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19632,8 +19631,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.lollylist.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.lopics-for-you.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.lovechan.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.lovely-virgins.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.lovely-young-porn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.loveyounggirlz.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.ls-magazine.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19683,8 +19682,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.models-list.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.models-nn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.models-top.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.modis.ml comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.mofosex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.momisnaked.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.monicastube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19734,8 +19733,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.newteenpics.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nn-clean-top.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nn-lo-la.pw comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nn-show-pics.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nn-stars.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nn-top.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.nnclub.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19785,8 +19784,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.oneclickfiles.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.onlyamatuer.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.onlycuties.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.onlyflashporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.onlyteenstgp.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.onlytorrents.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.orgasm.solutions comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19836,8 +19835,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornhub.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornocasero.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornochi.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornocook.tv comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornohome.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornojovenes.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.pornologo.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19887,8 +19886,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.reallyeighteen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.realteennetwork.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.realtinypics.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.realyoungporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.redpeppertube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.redtube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.redtubevideoss.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19938,8 +19937,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexxxtape.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexy-photos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexycamteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexyteens18to19.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexyyoungporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sexzie.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.seyummakr.site comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -19989,8 +19988,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweet-youngs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweetgirlie.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweethotteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweetlil18.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweetnngirls.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.sweetythumbs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.t-cartoons.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20040,8 +20039,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teenport.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teenpussy.ws comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teens-list.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teensarea.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teensboss.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teensdefloration.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.teensdesires.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20091,8 +20090,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.toomadporn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.toomadporn.pro comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.toon-party.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.top-rank-preteen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.top4cracks.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.traffic-trade115.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.tram-pararam.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20142,8 +20141,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.veryspecialteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.vgay.us comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.vickyporeno.gdn comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.victormanuelleonline.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.videarn.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.videosbang.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.videosgratis.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20193,8 +20192,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.wisecartoon.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.witchcartoons.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.wonteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.wooowteen.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.world-beauty.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.worldangels.info comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.wowmodels.info comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20244,8 +20243,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngertube.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngestcandy.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngestever.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngestgalleries.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngesttemptation.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngex.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=www.youngfor.net comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20295,8 +20294,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=x-casino.one comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=x-files-tube.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=x-paradise.tk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=x-videos.wz.sk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=x.1yourfilehost.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=x.fap.to comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=x.imagefapusercontent.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20346,8 +20345,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--casinopntet-s8al.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--casinosonlineespaa-30b.es comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--casinvincenti-0kb.online comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--cdigodebnus-qebh.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--csino-xqa.city comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--eckle6c9b3a1czd1iydc.jp comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xn--freespinsutaninsttningochomsttningskrav-0jdm.se comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20397,8 +20396,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xvideoteens.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xvvew.shop comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xwayx.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xwinnerr.net comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xx-teen.click comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxgasm.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxgfs.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20448,8 +20447,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxkiwi.site comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxkot.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxlo.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxlog.online comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxmango.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxmario.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=xxxpichut.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20499,8 +20498,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=yes.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yesbet88.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yesbets.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=yesbingo.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=yesplay.bet comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yeticasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yggdrasilcasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20550,8 +20549,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=young18.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=young3d.top comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=youngamateur.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=youngamateurgirls.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=youngamateurs.ws comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=younganaltryouts.ru comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=youngandsexy.nnfree.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20601,8 +20600,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=younownudes.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=your-casino-choice.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=your-models.net comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=your-promotional-code.co.uk comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=yourbejbis.eu comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yourcasinoguide.ca comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=yourcasinoratings.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20652,8 +20651,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zalagam.net comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zalincam.do.am comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zalupa.site comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zamba.cf comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zamba.com.co comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zambacolombia.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zambia-bonusesfinder.com comment=Bloqueo_Mintic_by_Oscar_Castillo
@@ -20703,8 +20702,8 @@ delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zlatanbet.se comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zmoviez.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zodiac.casino comment=Bloqueo_Mintic_by_Oscar_Castillo
-delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zodiacbet.com comment=Bloqueo_Mintic_by_Oscar_Castillo
+delay 1
 /ip/firewall/address-list/add list=bloqueo_mintic address=zodiaccasino.com comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zodiaccasino.org comment=Bloqueo_Mintic_by_Oscar_Castillo
 /ip/firewall/address-list/add list=bloqueo_mintic address=zodiaccasinos.net comment=Bloqueo_Mintic_by_Oscar_Castillo
