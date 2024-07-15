@@ -1,7 +1,5 @@
 import re
 from urllib.parse import urlparse
-import os
-import shutil
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -26,11 +24,8 @@ codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic ad
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
 codigo_con_delay = "delay 1"
 
-# Crear el directorio si no existe
-os.makedirs('bloqueo_mintic', exist_ok=True)
-
-listado_completo_path = 'bloqueo_mintic/listado_completo.rsc'
-address_list_path = 'bloqueo_mintic/address_list.rsc'
+listado_completo_path = 'listado_completo.rsc'
+address_list_path = 'address_list.rsc'
 dominios_unicos = set()  # Usar un conjunto para almacenar dominios únicos
 
 with open(listado_completo_path, 'w') as file:
@@ -38,15 +33,24 @@ with open(listado_completo_path, 'w') as file:
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             dominio_limpio = limpiar_url(url)
-            if dominio_limpio not in dominios_unicos:  # Verificar si el dominio ya existe en el conjunto
-                dominios_unicos.add(dominio_limpio)
-                file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
-            
-                # Agregar línea con delay cada 50 líneas
-                if (i + 1) % 50 == 0:
-                    file.write(codigo_con_delay + "\n")
+            file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
+
+            # Agregar línea con delay cada 50 líneas
+            if (i + 1) % 50 == 0:
+                file.write(codigo_con_delay + "\n")
 
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
+
+# Filtrar dominios únicos y escribir en un nuevo archivo
+with open(address_list_path, 'w') as file:
+    with open(listado_completo_path, 'r') as infile:
+        for line in infile:
+            domain = line.split(' ')[5]  # Extraer el dominio del comando
+            if domain not in dominios_unicos:
+                dominios_unicos.add(domain)
+                file.write(line)
+
+print(f"Archivo con dominios únicos se ha guardado en '{address_list_path}'.")
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -66,7 +70,7 @@ def dividir_url(url):
 codigo_antes_divididas = "/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 "
 codigo_despues_divididas = " comment=bloqueo_mintic"
 
-access_path = 'bloqueo_mintic/access.rsc'
+access_path = 'access.rsc'
 with open(access_path, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
@@ -83,7 +87,3 @@ with open(access_path, 'w') as file:
                 file.write(codigo_con_delay + "\n")
 
 print(f"Archivo con dominios y paths se ha guardado en '{access_path}'.")
-
-# Guardar el archivo con el nuevo nombre
-shutil.copy(listado_completo_path, 'listado_urls.rsc')
-print("Archivo 'listado_completo.rsc' se ha copiado como 'listado_urls.rsc'.")
