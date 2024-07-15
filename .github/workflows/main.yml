@@ -1,27 +1,30 @@
 name: Generar archivos de configuración
+
 on:
   push:
     branches:
       - main
+
 jobs:
   generar-archivos:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
       uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+
     - name: Run Python script
-      run: |
-        python extraer_dominios.py
+      run: python extraer_dominios.py
+
     - name: Upload archivos
       uses: actions/upload-artifact@v4
       with:
