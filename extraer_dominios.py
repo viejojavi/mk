@@ -58,7 +58,7 @@ with open(address_list_path, 'w') as file:
         for line in infile:
             parts = line.split(' ')
             if len(parts) > 5:
-                domain = parts[5]  # Extraer el dominio del comando
+                domain = parts[5].strip()  # Extraer el dominio del comando y eliminar espacios en blanco
                 if domain not in dominios_unicos:
                     dominios_unicos.add(domain)
                     file.write(line)
