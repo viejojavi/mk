@@ -1,5 +1,6 @@
 import re
 from urllib.parse import urlparse
+import idna
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -7,7 +8,11 @@ def limpiar_url(url):
         url = 'http://' + url  # Añadir http:// si no está presente
     parsed_url = urlparse(url)
     dominio = parsed_url.netloc
-    return dominio
+    try:
+        dominio_ascii = idna.encode(dominio).decode('ascii')
+    except idna.IDNAError:
+        dominio_ascii = dominio
+    return dominio_ascii
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -17,7 +22,11 @@ def dividir_url(url):
         parsed_url = urlparse(url)
         dominio = parsed_url.netloc
         path = parsed_url.path
-        return dominio, path
+        try:
+            dominio_ascii = idna.encode(dominio).decode('ascii')
+        except idna.IDNAError:
+            dominio_ascii = dominio
+        return dominio_ascii, path
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
         return None, None
