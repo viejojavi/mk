@@ -1,6 +1,5 @@
 import re
 from urllib.parse import urlparse
-import socket
 
 # Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
 def limpiar_url(url):
@@ -22,15 +21,6 @@ def dividir_url(url):
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
         return None, None
-
-# Función para obtener la dirección IP de un dominio
-def obtener_ip(dominio):
-    try:
-        ip = socket.gethostbyname(dominio)
-        return ip
-    except socket.gaierror as e:
-        print(f"Error al resolver la IP del dominio {dominio}: {e}")
-        return None
 
 # Leer el listado de URLs desde un archivo
 with open('listado_urls.txt', 'r') as file:
@@ -74,12 +64,10 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 
 address_list_path = 'address_list.rsc'
-# Escribir IPs únicas en un nuevo archivo address_list.rsc
+# Escribir dominios únicos en un nuevo archivo address_list.rsc
 with open(address_list_path, 'w') as file:
     for dominio in sorted(dominios_unicos):  # Ordenar para tener consistencia en el archivo
-        ip = obtener_ip(dominio)
-        if ip:
-            file.write(f"{codigo_antes_con_codigos}{ip}{codigo_despues_con_codigos}\n")
+        file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
 
-print(f"Archivo con IPs únicas se ha guardado en '{address_list_path}'.")
+print(f"Archivo con dominios únicos se ha guardado en '{address_list_path}'.")
 print(f"Archivo access.rsc se ha generado correctamente.")
