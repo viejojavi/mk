@@ -43,15 +43,18 @@ with open(listado_completo_path, 'w') as file:
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 
 # Filtrar dominios únicos y escribir en un nuevo archivo address_list.rsc
+with open(listado_completo_path, 'r') as infile:
+    for line in infile:
+        parts = line.split(' ')
+        if len(parts) > 5:
+            domain = parts[5]  # Extraer el dominio del comando
+            if domain not in dominios_unicos:
+                dominios_unicos.add(domain)
+
+# Escribir los dominios únicos en address_list.rsc
 with open(address_list_path, 'w') as file:
-    with open(listado_completo_path, 'r') as infile:
-        for line in infile:
-            parts = line.split(' ')
-            if len(parts) > 5:
-                domain = parts[5]  # Extraer el dominio del comando
-                if domain not in dominios_unicos:
-                    dominios_unicos.add(domain)
-                    file.write(line)
+    for dominio in dominios_unicos:
+        file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
 
 print(f"Archivo con dominios únicos se ha guardado en '{address_list_path}'.")
 
