@@ -73,7 +73,9 @@ print(f"Archivo con dominios y paths se ha guardado en 'access.rsc'.")
 
 # Escribir dominios únicos en un nuevo archivo address_list.rsc
 with open(address_list_path, 'w') as file:
-    for dominio in sorted(dominios_unicos):  # Ordenar para tener consistencia en el archivo
+    for i, dominio in enumerate(sorted(dominios_unicos)):  # Ordenar para tener consistencia en el archivo
         file.write(f"{codigo_antes_con_codigos}{dominio}{codigo_despues_con_codigos}\n")
+        if (i + 1) % 50 == 0:
+            file.write(codigo_con_delay + "\n")
 
 print(f"Archivo con dominios únicos se ha guardado en '{address_list_path}'.")
