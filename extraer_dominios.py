@@ -29,19 +29,24 @@ codigo_con_delay = "delay 1"
 # Crear el directorio si no existe
 os.makedirs('bloqueo_mintic', exist_ok=True)
 
+listado_completo_path = 'bloqueo_mintic/listado_completo.rsc'
 address_list_path = 'bloqueo_mintic/address_list.rsc'
-with open(address_list_path, 'w') as file:
+dominios_unicos = set()  # Usar un conjunto para almacenar dominios únicos
+
+with open(listado_completo_path, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             dominio_limpio = limpiar_url(url)
-            file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
+            if dominio_limpio not in dominios_unicos:  # Verificar si el dominio ya existe en el conjunto
+                dominios_unicos.add(dominio_limpio)
+                file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
             
-            # Agregar línea con delay cada 50 líneas
-            if (i + 1) % 50 == 0:
-                file.write(codigo_con_delay + "\n")
+                # Agregar línea con delay cada 50 líneas
+                if (i + 1) % 50 == 0:
+                    file.write(codigo_con_delay + "\n")
 
-print(f"Archivo con URLs y códigos se ha guardado en '{address_list_path}'.")
+print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 
 # Función para dividir una URL en dominio y path
 def dividir_url(url):
@@ -80,5 +85,5 @@ with open(access_path, 'w') as file:
 print(f"Archivo con dominios y paths se ha guardado en '{access_path}'.")
 
 # Guardar el archivo con el nuevo nombre
-shutil.copy(address_list_path, 'listado_urls.rsc')
-print("Archivo 'address_list.rsc' se ha copiado como 'listado_urls.rsc'.")
+shutil.copy(listado_completo_path, 'listado_urls.rsc')
+print("Archivo 'listado_completo.rsc' se ha copiado como 'listado_urls.rsc'.")
