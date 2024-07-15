@@ -28,20 +28,21 @@ listado_completo_path = 'listado_completo.rsc'
 address_list_path = 'address_list.rsc'
 dominios_unicos = set()  # Usar un conjunto para almacenar dominios únicos
 
+# Crear el archivo listado_completo.rsc con todas las URLs
 with open(listado_completo_path, 'w') as file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
             dominio_limpio = limpiar_url(url)
             file.write(f"{codigo_antes_con_codigos}{dominio_limpio}{codigo_despues_con_codigos}\n")
-
+            
             # Agregar línea con delay cada 50 líneas
             if (i + 1) % 50 == 0:
                 file.write(codigo_con_delay + "\n")
 
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 
-# Filtrar dominios únicos y escribir en un nuevo archivo
+# Filtrar dominios únicos y escribir en un nuevo archivo address_list.rsc
 with open(address_list_path, 'w') as file:
     with open(listado_completo_path, 'r') as infile:
         for line in infile:
