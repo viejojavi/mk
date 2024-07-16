@@ -50,6 +50,7 @@ listado_completo_path = 'listado_completo.rsc'
 address_list_path = 'address_list.rsc'
 puertos_eliminados_path = 'puertos_eliminados.txt'
 dominios_unicos = set()  # Usar un conjunto para almacenar dominios únicos
+puertos_unicos = set()   # Usar un conjunto para almacenar puertos únicos
 
 # Crear el archivo listado_completo.rsc con todas las URLs y también generar access.rsc
 with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') as access_file, open(puertos_eliminados_path, 'w') as puertos_file:
@@ -73,7 +74,7 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
 
                 # Registrar puerto eliminado si existía
                 if port:
-                    puertos_file.write(f"{dominio}:{port}\n")
+                    puertos_unicos.add(port)
 
             # Agregar línea con delay cada 50 líneas en access.rsc
             if (i + 1) % 50 == 0:
@@ -81,6 +82,11 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
 
             # Agregar dominio limpio al conjunto de dominios únicos
             dominios_unicos.add(dominio_limpio)
+
+# Escribir puertos únicos en el archivo puertos_eliminados.txt
+with open(puertos_eliminados_path, 'w') as puertos_file:
+    for port in sorted(puertos_unicos):
+        puertos_file.write(f"{port}\n")
 
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 print(f"Archivo con dominios y paths se ha guardado en 'access.rsc'.")
