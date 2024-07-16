@@ -44,7 +44,7 @@ if len(urls) > 0:
 # Generar archivo con líneas de código antes y después de cada URL
 codigo_antes_con_codigos = "/ip/firewall/address-list/add list=bloqueo_mintic address="
 codigo_despues_con_codigos = " comment=Bloqueo_Mintic_by_Oscar_Castillo"
-codigo_con_delay = "delay 1"
+codigo_con_delay = "/ip/dns/cache/flush\ndelay 1"
 
 listado_completo_path = 'listado_completo.rsc'
 address_list_path = 'address_list.rsc'
