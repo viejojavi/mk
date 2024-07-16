@@ -26,10 +26,10 @@ def dividir_url(url):
             dominio_ascii = idna.encode(dominio).decode('ascii')
         except idna.IDNAError:
             dominio_ascii = dominio
-        return dominio_ascii, path
+        return dominio_ascii, path, parsed_url.port
     except Exception as e:
         print(f"Error al procesar la URL: {url} - {e}")
-        return None, None
+        return None, None, None
 
 # Leer el listado de URLs desde un archivo
 with open('listado_urls.txt', 'r') as file:
@@ -48,10 +48,11 @@ codigo_con_delay = "delay 1"
 
 listado_completo_path = 'listado_completo.rsc'
 address_list_path = 'address_list.rsc'
+puertos_eliminados_path = 'puertos_eliminados.txt'
 dominios_unicos = set()  # Usar un conjunto para almacenar dominios únicos
 
 # Crear el archivo listado_completo.rsc con todas las URLs y también generar access.rsc
-with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') as access_file:
+with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') as access_file, open(puertos_eliminados_path, 'w') as puertos_file:
     for i, url in enumerate(urls):
         url = url.strip()
         if url:  # Asegurarse de que la URL no esté vacía
@@ -63,12 +64,16 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
                 listado_file.write(codigo_con_delay + "\n")
 
             # Generar línea en access.rsc con dominio y path
-            dominio, path = dividir_url(url)
+            dominio, path, port = dividir_url(url)
             if dominio is not None:
                 if path and path != "/":
                     access_file.write(f"/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 dst-host={dominio} path={path} comment=bloqueo_mintic\n")
                 else:
                     access_file.write(f"/ip/proxy/access/add action=redirect action-data=ticcol.com/internet-sano-1 dst-host={dominio} comment=bloqueo_mintic\n")
+
+                # Registrar puerto eliminado si existía
+                if port:
+                    puertos_file.write(f"{dominio}:{port}\n")
 
             # Agregar línea con delay cada 50 líneas en access.rsc
             if (i + 1) % 50 == 0:
@@ -79,6 +84,7 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
 
 print(f"Archivo con URLs y códigos se ha guardado en '{listado_completo_path}'.")
 print(f"Archivo con dominios y paths se ha guardado en 'access.rsc'.")
+print(f"Archivo con puertos eliminados se ha guardado en '{puertos_eliminados_path}'.")
 
 # Escribir dominios únicos en un nuevo archivo address_list.rsc
 with open(address_list_path, 'w') as file:
