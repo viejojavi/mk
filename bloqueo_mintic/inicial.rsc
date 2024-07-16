@@ -3,7 +3,7 @@
 /system/script/add name=eliminar_nat source=":local commentToFind \"Bloqueo mintic by Oscar Castillo\"; :foreach item in=[/ip firewall nat find where comment=\$commentToFind] do={/ip firewall nat remove \$item}" comment="Bloqueo mintic by Oscar Castillo"
 :put "Script Agregado"
 :foreach item in=[/ip/firewall/nat/find where comment="Bloqueo mintic by Oscar Castillo"] do={/ip/firewall/nat/remove $item}
-/ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80 action=redirect to-ports=999 comment="Bloqueo mintic by Oscar Castillo"
+/ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80,81,8080,9388 action=redirect to-ports=999 comment="Bloqueo mintic by Oscar Castillo"
 :put "Nat Habilitado"
 :foreach item in=[/system/scheduler/find where comment="actualizacion mintic"] do={/system/scheduler/remove $item}
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
@@ -22,4 +22,5 @@ delay delay-time=5s
 /file/remove acces.rsc
 :put "Acces eliminados"
 /file/remove inicial.rsc
+:local LogLineas [/system/logging/action/get memory memory-lines]; /system/logging/action/set memory memory-lines=1; :delay 1; /system/logging/action/set memory memory-lines=$LogLineas
 :put "Tarea Finalizada"
