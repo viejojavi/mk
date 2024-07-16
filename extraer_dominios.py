@@ -2,12 +2,12 @@ import re
 from urllib.parse import urlparse
 import idna
 
-# Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio
+# Función para limpiar el prefijo http:// y https:// de una URL y devolver solo el dominio sin puerto
 def limpiar_url(url):
     if not url.startswith(('http://', 'https://')):
         url = 'http://' + url  # Añadir http:// si no está presente
     parsed_url = urlparse(url)
-    dominio = parsed_url.netloc
+    dominio = parsed_url.hostname  # Esto elimina el puerto
     try:
         dominio_ascii = idna.encode(dominio).decode('ascii')
     except idna.IDNAError:
@@ -20,7 +20,7 @@ def dividir_url(url):
         url = 'http://' + url  # Añadir http:// si no está presente
     try:
         parsed_url = urlparse(url)
-        dominio = parsed_url.netloc
+        dominio = parsed_url.hostname  # Esto elimina el puerto
         path = parsed_url.path
         try:
             dominio_ascii = idna.encode(dominio).decode('ascii')
