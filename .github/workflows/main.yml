@@ -34,3 +34,4 @@ jobs:
           listado_completo.rsc
           address_list.rsc
           access.rsc
+          puertos_eliminados.txt
