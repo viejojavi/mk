@@ -78,7 +78,7 @@ with open(listado_completo_path, 'w') as listado_file, open('access.rsc', 'w') a
 
             # Agregar línea con delay cada 50 líneas en access.rsc
             if (i + 1) % 50 == 0:
-                access_file.write(codigo_con_delay + "\n")
+                access_file.write(codigo_con_delay + ";\n")
 
             # Agregar dominio limpio al conjunto de dominios únicos
             dominios_unicos.add(dominio_limpio)
