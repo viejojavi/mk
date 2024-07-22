@@ -1,6 +1,7 @@
 :put "Iniciamos instalacion de Reglas para Bloqueo Mintic"
 :foreach item in=[/system/script/find where comment="Bloqueo mintic by Oscar Castillo"] do={/system/script/remove $item}
 /system/script/add name=eliminar_nat source=":local commentToFind \"Bloqueo mintic by Oscar Castillo\"; :foreach item in=[/ip firewall nat find where comment=\$commentToFind] do={/ip firewall nat remove \$item}" comment="Bloqueo mintic by Oscar Castillo"
+:foreach item in=[/system/script/find where comment="Flush cache by Oscar Castillo"] do={/system/script/remove $item}
 /system/script/add source={/ip/dns/cache/flush} comment="Flush cache by Oscar Castillo" name=flush_dns
 /system/scheduler/add name="flush dns" comment="Flush dns by Oscar Castillo" on-event=flush_dns interval=00:05:00
 #:put "Script Agregado"
