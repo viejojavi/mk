@@ -11,7 +11,7 @@
 :foreach item in=[/system/scheduler/find where comment="actualizacion mintic"] do={/system/scheduler/remove $item}
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
 #:put "Tarea Agregada"
-/ip/proxy/set enabled=yes port=999 max-cache-size=4096
+/ip/proxy/set enabled=yes port=999 max-cache-size=9128
 /ip/dns/set cache-size=9128KiB
 #:put "Proxy habilitado"
 :foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo_Mintic_by_Oscar_Castillo"] do={/ip/firewall/address-list/remove $item}
