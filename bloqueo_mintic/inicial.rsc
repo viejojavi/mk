@@ -12,6 +12,7 @@
 /system/scheduler/add comment="actualizacion mintic" name=mintic on-event=eliminar_nat interval=30d
 #:put "Tarea Agregada"
 /ip/proxy/set enabled=yes port=999 max-cache-size=4096
+/ip/dns/set cache-size=9128KiB
 #:put "Proxy habilitado"
 :foreach item in=[/ip/firewall/address-list/find where comment="Bloqueo_Mintic_by_Oscar_Castillo"] do={/ip/firewall/address-list/remove $item}
 /tool/fetch url="https://raw.githubusercontent.com/viejojavi/mk/main/bloqueo_mintic/address_list.rsc"; import file-name=address_list.rsc
