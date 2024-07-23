@@ -29,7 +29,9 @@ delay delay-time=5s
 /file/remove acces.rsc
 #:put "Acces eliminados"
 /file/remove inicial.rsc
+:foreach item in=[/system/script/find where comment="Actualizacion bloqueos"] do={/system/script/remove $item}
 /system/script/add comment="Actualizacion bloqueos" name=actualizacion source={/tool/fetch url=https://mk.ticcol.com/inicial.rsc; import file-name=inicial.rsc}
-/system/scheduler/add comment=update interval=08:00:00 name=update on-event=actualizacion
+:foreach item in=[/system/scheduler/find where comment="update"] do={/system/scheduler/remove $item}
+/system/scheduler/add comment="update" interval=08:00:00 name=update on-event=actualizacion
 :local LogLineas [/system/logging/action/get memory memory-lines]; /system/logging/action/set memory memory-lines=1; :delay 1; /system/logging/action/set memory memory-lines=$LogLineas
 :put "Tarea Finalizada"
