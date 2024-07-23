@@ -7,7 +7,7 @@
 :foreach item in=[/system/scheduler/find where comment="Flush dns by Oscar Castillo"] do={/system/scheduler/remove $item}
 /system/scheduler/add name="flush dns" comment="Flush dns by Oscar Castillo" on-event=flush_dns interval=00:05:00
 #:put "Script Agregado"
-:foreach item in=[/ip/firewall/nat/find where comment="Bloqueo_Mintic_by_Oscar_Castillo"] do={/ip/firewall/nat/remove $item}
+:foreach item in=[/ip/firewall/nat/find where comment="Bloqueo mintic by Oscar Castillo"] do={/ip/firewall/nat/remove $item}
 /ip/firewall/connection/tracking/set enabled=yes
 /ip/firewall/nat/add chain=dstnat dst-address-list=bloqueo_mintic protocol=tcp dst-port=80,81,8080,9388 action=redirect to-ports=999 comment="Bloqueo mintic by Oscar Castillo"
 #:put "Nat Habilitado"
